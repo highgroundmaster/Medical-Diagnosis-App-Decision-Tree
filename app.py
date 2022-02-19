@@ -38,7 +38,7 @@ def search(resp, dataset, dt):
     warnings = ""
     debug_print(" got " + resp)
     for word in list_of_words:
-        if word.lower() in dataset.symptoms:
+        if word.lower() in dataset.symptom:
             search_symptoms.append(word)
         elif word != "":
             warnings += f"The word '{word}' was not understood\n"
