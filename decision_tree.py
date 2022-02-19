@@ -12,11 +12,12 @@ from sklearn.metrics import accuracy_score
 
 
 def decision_tree_sk(data):
-    train_data, testing_data = train_test_split(data, test_size=0.3, random_state=random.randint(0, 100))
-    X_train_data = training_data.drop("Disease", axis=1)
-    y_train_data = training_data["Disease"].copy()
-    X_test = testing_data.drop("Disease", axis=1)
-    y_test = testing_data["Disease"].copy()
-
+    train, test =  data.drop("label_dis", axis=1), data["label_dis"]
+    X_train, X_test, y_train, y_test = train_test_split(train, test, test_size=0.3, random_state=random.randint(0, 100))
+    # y_test = test["label_dis"]
+    pass
 if __name__ == "__main__":
-    data = pd.read_csv("")
+
+    data = pd.read_csv(os.path.join("Data", "dis_sym_dataset_comb.csv"))
+    print(data.sample(5))
+    # decision_tree_sk(data)
