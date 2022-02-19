@@ -83,7 +83,7 @@ def pull_data(disease_name):
 
 def save(to_save):
     output_fldr = os.path.join("Data", "Wiki")
-    with open(os.path.join(output_fldr, "diseases.json"), "r") as fp:
+    with open(os.path.join(output_fldr, "diseases.json"), "w") as fp:
         json.dump(to_save, fp, indent=2)
 
 
