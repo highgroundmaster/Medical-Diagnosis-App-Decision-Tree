@@ -90,7 +90,21 @@ def save(to_save):
         json.dump(to_save, fp, indent=2)
 
 
+def load():
+    output_fldr = os.path.join("Data", "Wiki")
+    with open(os.path.join(output_fldr, "diseases.json"), "r") as fp:
+        dt = json.load(fp)
+    return dt
+
+
 if __name__ == '__main__':
+    d = load()
+    for ele in d.keys():
+        if len(d[ele].keys()) == 0:
+            print(ele)
+
+
+    exit(0)
     driver.implicitly_wait(1)
     list_of_diseases = pd.read_csv(os.path.join("Data", "dis_sym_dataset_comb.csv"))["label_dis"].unique()
     scraped_data = {}
