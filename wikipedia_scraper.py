@@ -16,19 +16,23 @@ driver = webdriver.Chrome()
 
 
 def get_wiki_box(search):
+    # we get the wikipedia homepage
     driver.get("https://www.wikipedia.org/")
     time.sleep(0.5)
 
+    # we then enter the search term
     search_input = driver.find_element(By.ID, "searchInput")
-
     search_input.send_keys(search)
     search_input.send_keys(Keys.RETURN)
+    # wait to allow some time for the server to respond
     time.sleep(0.5)
 
+    # we check if the box is found else we wait for the user to correct it
     while True:
         box = driver.find_elements(By.XPATH, "//table[contains(@class, 'infobox')]")
         if len(box) == 0:
-            print("no item found")
+            # in the event a table is not found we wait for the user to correct the error so we can continue scraping
+            print("no Table found")
             input()
             print("checking again")
         else:
@@ -38,26 +42,37 @@ def get_wiki_box(search):
 
 
 def get_file_name(link):
+    # we grab the file name from the last /
     while link.find("/") != -1:
         link = link[link.find("/") + 1:]
     return link
 
 
 def get_img(link):
-    output_fldr = os.path.join(os.path.join("Data", "Wiki"), "imgs")
+    output_fldr = os.path.join("Data", "Wiki", "imgs")
     driver.get("https://en.wikipedia.org" + link)
     time.sleep(0.5)
     pure_link = driver.find_element(By.XPATH, "//a[contains(@class, 'internal')]").get_attribute("href")
     print(pure_link)
+
+    # dummy header so as not to get a 403 response
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
     }
-    r = requests.get(pure_link,headers=headers)
+    r = requests.get(pure_link, headers=headers)
+
+    # response other the 200 we stop and let the user know
+    # normally this means network is down
     if r.status_code != 200:
         print(f"got bad status code  {r.status_code}")
         exit()
+
+    # we get the file name from the link
     file_name = get_file_name(pure_link)
+
     print(file_name)
+
+    # we save the image file
     with open(os.path.join(output_fldr, file_name), "wb+") as fp:
         fp.write(r.content)
     return file_name
@@ -111,19 +126,6 @@ def load():
 if __name__ == '__main__':
     driver.implicitly_wait(1)
     scraped_data = load()
-    list_of_d = []
-    for disease in scraped_data.keys():
-        atr = scraped_data[disease].keys()
-        if "__IMAGE_SRC__" in atr:
-            if "__IMAGE_FILE__" not in atr:
-                list_of_d.append(disease)
-
-    for i, disease in enumerate(list_of_d):
-        print(f" {i} of {len(list_of_d)} {disease}")
-        src = get_img(scraped_data[disease]["__IMAGE_SRC__"])
-        scraped_data[disease]["__IMAGE_FILE__"] = src
-        save(scraped_data)
-    exit(0)
 
     blank_diseases = []
     for ele in scraped_data.keys():
@@ -137,11 +139,13 @@ if __name__ == '__main__':
         print(json.dumps(d, indent=2))
         scraped_data[ele] = d
         save(scraped_data)
-    exit(0)
+
     list_of_diseases = pd.read_csv(os.path.join("Data", "dis_sym_dataset_comb.csv"))["label_dis"].unique()
     scraped_data = {}
-    for c in list_of_diseases:
-        print(c)
-
-        d = pull_data(c)
-        scraped_data[c] = d
+    for ele in list_of_diseases:
+        if ele in scraped_data.keys():
+            if len(scraped_data[ele].keys()) != 0:
+                continue
+        print(f"getting {ele}")
+        info_box = pull_data(ele)
+        scraped_data[ele] = info_box
