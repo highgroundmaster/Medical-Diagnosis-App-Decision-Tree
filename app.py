@@ -5,7 +5,7 @@ import pandas as pd
 from pywebio.input import *
 from pywebio.output import *
 from decision_tree import DecisionTree
-from preprocessing import vocab_cleaning, get_jaccard_sim
+from preprocessing import get_jaccard_sim, vocab_cleaning, spell_check
 
 
 class Dataset:
@@ -36,25 +36,30 @@ class Dataset:
 
 
 def display_result(response, dataset):
-    fldr = os.path.join("Data", "Wiki", "imgs")
+    print(f"reached {response}")
+    folder = os.path.join("Data", "Wiki", "imgs")
     with use_scope("result", clear=True):
-        put_text("Your symptoms best match " + response[0])
+        if response:
+            put_text("Your symptoms best match " + response[0])
 
-        wiki_info = dataset.wiki[response[0]]
-        heading = response[0]
-        if "__HEADING__" in wiki_info.keys():
-            heading = wiki_info["__HEADING__"]
-        info = []
-        for key in wiki_info.keys():
-            if key[:2] != "__" and key[-2:] != "__":
-                row = [key, wiki_info[key]]
-                info.append(row)
-        if "__IMAGE_FILE__" in wiki_info.keys():
-            img = open(os.path.join(fldr, wiki_info["__IMAGE_FILE__"]), 'rb').read()
-            put_image(img, width='50%')
-        put_table(
-            info,
-            header=[span(heading, col=2)])
+            wiki_info = dataset.wiki[response[0]]
+            heading = response[0]
+            if "__HEADING__" in wiki_info.keys():
+                heading = wiki_info["__HEADING__"]
+            info = []
+            for key in wiki_info.keys():
+                if key[:2] != "__" and key[-2:] != "__":
+                    row = [key, wiki_info[key]]
+                    info.append(row)
+            if "__IMAGE_FILE__" in wiki_info.keys():
+                img = open(os.path.join(folder, wiki_info["__IMAGE_FILE__"]), 'rb').read()
+                put_image(img, width='50%')
+            put_table(
+                info,
+                header=[span(heading, col=2)])
+        else:
+            put_text("")
+
 
 
 
@@ -67,9 +72,10 @@ def search(resp, dataset, dt):
         if word.lower() in dataset.symptoms:
             search_symptoms.append(word.lower())
         elif word != "":
-            max_similarity, similar_word = 0,  ""
+            corrected_word = spell_check(word.lower())
+            max_similarity, similar_word = 0, ""
             for symptom in dataset.symptoms:
-                similarity = get_jaccard_sim(vocab_cleaning(word.lower()), vocab_cleaning(symptom))
+                similarity = get_jaccard_sim(vocab_cleaning(corrected_word), vocab_cleaning(symptom))
                 if similarity > max_similarity:
                     max_similarity = similarity
                     similar_word = symptom
@@ -80,6 +86,7 @@ def search(resp, dataset, dt):
     with use_scope("warnings", clear=True):
         if warnings:
             put_text("Warning : \n" + f"Given symptom(s) {', '.join(warnings)} not understood")
+
     if warnings != list_of_words:
         symptoms_vector = dataset.get_user_response(search_symptoms)
         with open("ds.txt", "w") as fp:
@@ -87,6 +94,8 @@ def search(resp, dataset, dt):
         response = dt.get_diseases(symptoms_vector)
         print(response)
         display_result(response, dataset)
+    else:
+        display_result([], dataset)
 
 
 def debug_print(s):
@@ -109,6 +118,7 @@ def main():
     #     print(f" {i} of {len(dataset.diseases)}  {disease}")
     #     display_result([disease], dataset)
     #     input("next")
+
 
 if __name__ == '__main__':
     main()

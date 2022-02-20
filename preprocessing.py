@@ -1,27 +1,29 @@
 import os.path
 
-import numpy as np
 import pandas as pd
 import nltk
-
 
 nltk.download("wordnet")
 nltk.download('averaged_perceptron_tagger')
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download("words")
 
 from itertools import combinations
 
+from nltk.metrics.distance import jaccard_distance
+from nltk.util import ngrams
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet
+from nltk.corpus import words
 
 
 def data_cleaning():
     data = pd.read_csv(os.path.join("Data", "preprocessed_dis_sym_comb.csv"))
     symptoms = data.columns[1:]
     for symptom_1, symptom_2 in list(combinations(symptoms, 2)):
-        if get_jaccard_sim(vocab_cleaning(symptom_1),vocab_cleaning(symptom_2)) >= 0.5:
+        if get_jaccard_sim(vocab_cleaning(symptom_1), vocab_cleaning(symptom_2)) >= 0.5:
             choice = int(input(f" 1. {symptom_1}\n 2. {symptom_2}\n 3. Name Change \n 4. Pass\n\n"))
             if choice < 3:
                 data["temp"] = data[[symptom_1, symptom_2]].max(axis=1)
@@ -82,3 +84,11 @@ def get_jaccard_sim(str1, str2):
     c = a.intersection(b)
     # print(a, b)
     return len(c) / (len(a) + len(b) - len(c))
+
+
+def spell_check(word):
+    correct_words = words.words()
+    temp = [(jaccard_distance(set(ngrams(word, 2)),
+                              set(ngrams(w, 2))), w)
+            for w in correct_words if w[0] == word[0]]
+    return sorted(temp, key=lambda val: val[0])[0][1]
