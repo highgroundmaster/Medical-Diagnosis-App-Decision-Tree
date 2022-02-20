@@ -61,29 +61,32 @@ def display_result(response, dataset):
 def search(resp, dataset, dt):
     search_symptoms = []
     list_of_words = list(map(str.strip, resp.split(",")))
-    warnings = ""
+    warnings = []
     debug_print(" got " + resp)
     for word in list_of_words:
         if word.lower() in dataset.symptoms:
-            search_symptoms.append(word)
+            search_symptoms.append(word.lower())
         elif word != "":
             max_similarity, similar_word = 0,  ""
             for symptom in dataset.symptoms:
-                similarity = get_jaccard_sim(vocab_cleaning(word), vocab_cleaning(symptom))
+                similarity = get_jaccard_sim(vocab_cleaning(word.lower()), vocab_cleaning(symptom))
                 if similarity > max_similarity:
                     max_similarity = similarity
                     similar_word = symptom
-            search_symptoms.append(similar_word)
-                
+            if max_similarity > 0:
+                search_symptoms.append(similar_word)
+            else:
+                warnings.append(word)
     with use_scope("warnings", clear=True):
-        if warnings != "":
-            put_text("Warning:- \n" + warnings)
-    vector = dataset.get_user_response(search_symptoms)
-    with open("ds.txt", "w") as fp:
-        fp.write(str(vector))
-    response = dt.get_diseases(vector)
-    print(response)
-    display_result(response, dataset)
+        if warnings:
+            put_text("Warning : \n" + f"Given symptom(s) {', '.join(warnings)} not understood")
+    if warnings != list_of_words:
+        symptoms_vector = dataset.get_user_response(search_symptoms)
+        with open("ds.txt", "w") as fp:
+            fp.write(str(symptoms_vector))
+        response = dt.get_diseases(symptoms_vector)
+        print(response)
+        display_result(response, dataset)
 
 
 def debug_print(s):
