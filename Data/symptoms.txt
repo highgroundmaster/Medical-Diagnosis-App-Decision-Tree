@@ -11,9 +11,9 @@ acquiring drinking alcohol taking lot time
 affected part turning white
 anemia
 anxiety
-arm
+arm pain
 attack pain
-back
+back pain
 bacterial infection
 bad breath
 bad smelling thin vaginal discharge
@@ -21,7 +21,7 @@ bad smelling vaginal discharge
 barky cough
 belching
 better sitting worse lying
-birth baby younger week gestational age
+baby birth 37 weeks gestation
 bleeding gum
 bleeding skin
 blindness
@@ -31,8 +31,8 @@ bloating
 blood stool
 blood urine
 bloody diarrhea
-blue
-bluish skin coloration
+blue skin
+bluish skin
 blurred vision
 blurry vision
 body tremor
@@ -45,10 +45,10 @@ burning
 burning redness eye
 burning stabbing pain
 burning urination
-certain thought repeatedly
+repeated thoughts
 change bowel movement
 change breast shape
-change color
+change skin color
 change hair
 change reflex
 change skin color red black
@@ -66,16 +66,16 @@ chronic pain bladder
 clenched fist overlapping finger
 close object appear blurry
 clumsy
-cm lump skin
+1-2 cm lump skin
 cold sweat
 coma
-confused thinking
+confused
 confusion
 constipation
 coolness
 coordination
 cough bloody mucus
-cough sputum production
+cough sputum
 coughing
 coughing blood
 coughing including coughing blood
@@ -83,9 +83,9 @@ coughing mucus
 crawl
 cry episode
 dark urine
-darker
+dark skin
 daytime sleepiness
-death child le one year age
+death child one year age
 decreased ability feel pain
 decreased ability see
 decreased ability think
@@ -101,16 +101,16 @@ delayed physical growth
 delirium
 delusion
 dementia
-depending subtype abdominal pain
+abdominal pain
 depends organ involved
 depressed mood
 depression
 dermatitis herpetiformis
 developmental disability
 diarrhea
-diarrhea may bloody
+diarrhea bloody
 diarrhea mixed blood
-diarrhoea
+diarrhea.1
 difficulty breathing
 difficulty cutting
 difficulty eating
@@ -150,7 +150,7 @@ extreme sadness
 extremity weakness
 eye pain
 eye strain
-eyestrain
+eye strain.1
 fast heart rate
 fast heartbeat
 fatigue
@@ -194,7 +194,7 @@ high body temperature
 hoarse voice
 hold reading material farther away
 impaired communication
-inability child
+infertility
 inability move facial muscle one side
 inability move feel one side body
 increased breath rate
@@ -207,7 +207,7 @@ increased risk infection
 increased thirst
 increasing weakening
 index
-infertility
+infertility.1
 inflamed eye
 insomnia
 intellectual disability
@@ -227,7 +227,7 @@ itchy blister
 itchy bump
 itchy ear
 jaundice
-jaw
+jaw pain
 jerky body movement
 joint bone pain
 joint swelling
@@ -256,7 +256,7 @@ lump breast
 lump bump neck
 maculopapular rash
 malabsorption
-may symptom
+no symptom
 memory problem
 mental ability
 mental change
@@ -271,7 +271,8 @@ mood swing
 mouth sore
 mouth ulcer
 multiple painful joint
-muscle ache difficulty breathing
+difficulty breathing.1
+muscle ache
 muscle cramp
 muscle joint pain
 muscle spasm
@@ -297,16 +298,15 @@ numbness
 object different size eye
 one eye myopia eye hyperopia
 opening upper lip may extend nose palate
-others
 overlying redness
 pain along inside edge shinbone
-pain area
+pain leg vein
 pain around ear
 pain doesnt go shingle
 pain going leg lower back
 pain sex
 pain specific bone
-painful
+painful gums
 painful blister lower leg
 painful heavy period
 painful joint base big toe
@@ -342,20 +342,20 @@ problem understanding speaking
 problem vision
 profuse sweating
 progressive muscle weakness
-prolonged
+prolonged vaginal bleeding
 prolonged cough
-prominent
+red big toe joint
 protein urine
 psychosis
 pulsing pain
 purple colored skin affected area
 purple colored skin lesion
-raised
+raised itchy bumps
 raised red blue lesion
 random outburst laughter
 rapid breathing
 recurring episode wheezing
-red
+red bumps
 red eye
 red purple darker skin
 red rash
@@ -416,7 +416,7 @@ stomach pain
 stroke
 stuffy itchy nose
 stunted growth
-sudden
+sudden nerve pain
 sudden loss muscle strength
 sweat
 swell pain near tumor
@@ -449,7 +449,6 @@ trouble speaking
 trouble swallowing
 trouble talking
 trouble walking
-typically none
 ulcer
 ulcer around genitals
 ulceration
