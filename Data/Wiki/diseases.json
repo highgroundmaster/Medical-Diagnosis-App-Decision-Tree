@@ -34,7 +34,7 @@
   "Acquired Immuno Deficiency Syndrome": {
     "__HEADING__": "HIV/AIDS",
     "Other names": "HIV disease, HIV infection",
-    "__IMAGE_SRC__": "/wiki/File:Red_Ribbon.svg",
+    "__IMAGE_SRC__": "/wiki/File:Red_Ribbon.jpg",
     "Specialty": "Infectious disease, immunology",
     "Symptoms": "Early: Flu-like illnessLater: Large lymph nodes, fever, weight loss",
     "Complications": "Opportunistic infections, tumors",
@@ -47,7 +47,7 @@
     "Prognosis": "Near normal life expectancy with treatment11 years life expectancy without treatment",
     "Frequency": "55.9 million \u2013 100 million total cases1.5 million new cases (2020)37 million living with HIV (2020)",
     "Deaths": "36.3 million total deaths680,000 (2020)",
-    "__IMAGE_FILE__": "Red_Ribbon.svg"
+    "__IMAGE_FILE__": "Red_Ribbon.jpg"
   },
   "Acute encephalitis syndrome": {
     "__HEADING__": "Encephalitis",
@@ -366,12 +366,12 @@
   },
   "Black Death": {
     "__HEADING__": "Black Death",
-    "__IMAGE_SRC__": "/wiki/File:1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
+    "__IMAGE_SRC__": "/wiki/File:1346-1353_spread_of_the_Black_Death_in_Europe_map.jpg",
     "Disease": "Bubonic plague",
     "Location": "Eurasia and North Africa",
     "Date": "1346\u20131353",
     "Deaths": "75,000,000\u2013200,000,000 (estimated)",
-    "__IMAGE_FILE__": "1346-1353_spread_of_the_Black_Death_in_Europe_map.svg"
+    "__IMAGE_FILE__": "1346-1353_spread_of_the_Black_Death_in_Europe_map.jpg"
   },
   "Bleeding Gums": {
     "__HEADING__": "Periodontitis",
@@ -990,7 +990,7 @@
   },
   "Diabetes Mellitus": {
     "__HEADING__": "Diabetes mellitus",
-    "__IMAGE_SRC__": "/wiki/File:Blue_circle_for_diabetes.svg",
+    "__IMAGE_SRC__": "/wiki/File:Blue_circle_for_diabetes.jpg",
     "Pronunciation": "/\u02ccda\u026a \u0259\u02c8bi tiz, -t\u026as//\u02c8m\u025bl \u026a t\u0259s, m\u0259\u02c8la\u026a-/ ",
     "Specialty": "Endocrinology",
     "Symptoms": "Frequent urination, increased thirst, increased hunger",
@@ -1001,7 +1001,7 @@
     "Medication": "Insulin, anti-diabetic medication like metformin",
     "Frequency": "463 million (8.8%)[10]",
     "Deaths": "4.2 million (2019)[10]",
-    "__IMAGE_FILE__": "Blue_circle_for_diabetes.svg"
+    "__IMAGE_FILE__": "Blue_circle_for_diabetes.jpg"
   },
   "Diabetic Retinopathy": {
     "__HEADING__": "Diabetic retinopathy",
@@ -1235,7 +1235,7 @@
   "Fibromyalgia": {
     "__HEADING__": "Fibromyalgia",
     "Other names": "Fibromyalgia syndrome (FMS)",
-    "__IMAGE_SRC__": "/wiki/File:Widespread_Pain_Index_Areas_with_numbers.svg",
+    "__IMAGE_SRC__": "/wiki/File:Widespread_Pain_Index_Areas_with_numbers.jpg",
     "Pronunciation": "/\u02ccfa\u026abro\u028ama\u026a\u02c8\u00e6ld\u0292\u0259/ ",
     "Specialty": "Psychiatry, rheumatology, neurology",
     "Symptoms": "Widespread pain, feeling tired, sleep problems",
@@ -1248,7 +1248,7 @@
     "Medication": "Duloxetine, milnacipran, pregabalin, gabapentin",
     "Prognosis": "Normal life expectancy",
     "Frequency": "2\u20138%",
-    "__IMAGE_FILE__": "Widespread_Pain_Index_Areas_with_numbers.svg"
+    "__IMAGE_FILE__": "Widespread_Pain_Index_Areas_with_numbers.jpg"
   },
   "Food Poisoning": {
     "null": "todo"
@@ -1573,7 +1573,7 @@
   "Hypermetropia": {
     "__HEADING__": "Far-sightedness",
     "Other names": "Hypermetropia, hyperopia, longsightedness, long-sightedness",
-    "__IMAGE_SRC__": "/wiki/File:Hypermetropia_color.svg",
+    "__IMAGE_SRC__": "/wiki/File:Hypermetropia_color.jpg",
     "Specialty": "Ophthalmology, optometry",
     "Symptoms": "Near blur, Distance and near blur, Asthenopia",
     "Complications": "Accommodative dysfunction, binocular dysfunction, amblyopia, strabismus",
@@ -1583,12 +1583,12 @@
     "Differential diagnosis": "Amblyopia, retrobulbar optic neuropathy, retinitis pigmentosa sine pigmento",
     "Treatment": "Eyeglasses, contact lenses, refractive surgeries, IOL implantation",
     "Frequency": "~7.5% (US)",
-    "__IMAGE_FILE__": "Hypermetropia_color.svg"
+    "__IMAGE_FILE__": "Hypermetropia_color.jpg"
   },
   "Hyperthyroidism": {
     "__HEADING__": "Hyperthyroidism",
     "Other names": "Overactive thyroid, hyperthyreosis",
-    "__IMAGE_SRC__": "/wiki/File:Triiodothyronine.svg",
+    "__IMAGE_SRC__": "/wiki/File:Triiodothyronine.jpg",
     "Specialty": "Endocrinology",
     "Symptoms": "Irritability, muscle weakness, sleeping problems, fast heartbeat, heat intolerance, diarrhea, enlargement of the thyroid, weight loss",
     "Complications": "Thyroid storm",
@@ -1598,7 +1598,7 @@
     "Treatment": "Radioiodine therapy, medications, thyroid surgery",
     "Medication": "Beta blockers, methimazole",
     "Frequency": "1.2% (US)",
-    "__IMAGE_FILE__": "Triiodothyronine.svg"
+    "__IMAGE_FILE__": "Triiodothyronine.jpg"
   },
   "Hypothyroid": {
     "__HEADING__": "Hypothyroidism",
@@ -2338,7 +2338,7 @@
   },
   "Nipah virus infection": {
     "__HEADING__": "Nipah virus infection",
-    "__IMAGE_SRC__": "/wiki/File:Henipavirus_structure.svg",
+    "__IMAGE_SRC__": "/wiki/File:Henipavirus_structure.jpg",
     "Specialty": "Infectious disease\u00a0",
     "Symptoms": "None, fever, cough, headache,diarrhea, confusion",
     "Complications": "Inflammation of the brain, seizures",
@@ -2349,11 +2349,11 @@
     "Treatment": "Supportive care only",
     "Frequency": "~701 human cases (1998 to May 2018)",
     "Deaths": "~50 to 75% risk of death",
-    "__IMAGE_FILE__": "Henipavirus_structure.svg"
+    "__IMAGE_FILE__": "Henipavirus_structure.jpg"
   },
   "Obesity": {
     "__HEADING__": "Obesity",
-    "__IMAGE_SRC__": "/wiki/File:Obesity-waist_circumference.svg",
+    "__IMAGE_SRC__": "/wiki/File:Obesity-waist_circumference.jpg",
     "Specialty": "Endocrinology",
     "Symptoms": "Increased fat",
     "Complications": "Cardiovascular diseases, type 2 diabetes, obstructive sleep apnea, certain types of cancer, osteoarthritis, depression",
@@ -2364,7 +2364,7 @@
     "Prognosis": "Reduced life expectancy",
     "Frequency": "700 million / 12% (2015)",
     "Deaths": "2.8 million people per year",
-    "__IMAGE_FILE__": "Obesity-waist_circumference.svg"
+    "__IMAGE_FILE__": "Obesity-waist_circumference.jpg"
   },
   "Obsessive Compulsive Disorder": {
     "__HEADING__": "Obsessive\u2013compulsive disorder",
@@ -2925,7 +2925,7 @@
   "SIDS": {
     "__HEADING__": "Sudden infant death syndrome",
     "Other names": "Cot death, crib death",
-    "__IMAGE_SRC__": "/wiki/File:Safe_Sleep_logo.svg",
+    "__IMAGE_SRC__": "/wiki/File:Safe_Sleep_logo.jpg",
     "Specialty": "Pediatrics",
     "Symptoms": "Death of a child less than one year of age",
     "Usual onset": "Sudden",
@@ -2936,7 +2936,7 @@
     "Prevention": "Putting newborns on their back to sleep, pacifier, breastfeeding, immunization",
     "Treatment": "Support for families",
     "Frequency": "1 in 1,000\u201310,000",
-    "__IMAGE_FILE__": "Safe_Sleep_logo.svg"
+    "__IMAGE_FILE__": "Safe_Sleep_logo.jpg"
   },
   "Sarcoidosis": {
     "__HEADING__": "Sarcoidosis",
@@ -3239,7 +3239,7 @@
   "Stroke": {
     "__HEADING__": "Stroke",
     "Other names": "Cerebrovascular accident (CVA), cerebrovascular insult (CVI), brain attack",
-    "__IMAGE_SRC__": "/wiki/File:MCA_Territory_Infarct.svg",
+    "__IMAGE_SRC__": "/wiki/File:MCA_Territory_Infarct.jpg",
     "Specialty": "Neurology, stroke medicine",
     "Symptoms": "Inability to move or feel on one side of the body, problems understanding or speaking, dizziness, loss of vision to one side",
     "Complications": "Persistent vegetative state",
@@ -3251,7 +3251,7 @@
     "Prognosis": "Average life expectancy 1 year",
     "Frequency": "42.4 million (2015)[10]",
     "Deaths": "6.3 million (2015)[11]",
-    "__IMAGE_FILE__": "MCA_Territory_Infarct.svg"
+    "__IMAGE_FILE__": "MCA_Territory_Infarct.jpg"
   },
   "Sub-conjunctival Haemorrhage": {
     "__HEADING__": "Subconjunctival bleeding",
@@ -3337,7 +3337,7 @@
   "Tennis elbow": {
     "__HEADING__": "Tennis elbow",
     "Other names": "Lateral epicondylalgia, lateral elbow tendinopathy",
-    "__IMAGE_SRC__": "/wiki/File:En-elbow_joint.svg",
+    "__IMAGE_SRC__": "/wiki/File:En-elbow_joint.jpg",
     "Specialty": "Orthopedics, sports medicine",
     "Symptoms": "Painful and tender outer part of the elbow",
     "Usual onset": "Gradual",
@@ -3348,7 +3348,7 @@
     "Differential diagnosis": "Osteochondritis dissecans, osteoarthritis, radiculopathy",
     "Treatment": "Changing activities, physical therapy, pain medication",
     "Frequency": "c. 2%",
-    "__IMAGE_FILE__": "En-elbow_joint.svg"
+    "__IMAGE_FILE__": "En-elbow_joint.jpg"
   },
   "Tetanus": {
     "__HEADING__": "Tetanus",
@@ -3564,7 +3564,7 @@
   "Vitamin B12 Deficiency": {
     "__HEADING__": "Vitamin B12 deficiency",
     "Other names": "Hypocobalaminemia, cobalamin deficiency",
-    "__IMAGE_SRC__": "/wiki/File:Cyanocobalamin.svg",
+    "__IMAGE_SRC__": "/wiki/File:Cyanocobalamin.jpg",
     "Specialty": "Neurology, hematology",
     "Symptoms": "Vary with degree \u2013 mild deficiency: fatigue, and anemia; moderate: megaloblastic anemia with glossitis, some neurological effects; severe deficiency: more defined neurological symptoms such as pins and needles sensations, severe depression, exercise intolerance",
     "Complications": "Megaloblastic anemia, irreversible damage to the brain and nervous system",
@@ -3574,7 +3574,7 @@
     "Prevention": "Supplementation in those at high risk",
     "Treatment": "Supplementation by mouth or injection",
     "Frequency": "6% (<\u200960 years old), 20% (>\u200960 years old)",
-    "__IMAGE_FILE__": "Cyanocobalamin.svg"
+    "__IMAGE_FILE__": "Cyanocobalamin.jpg"
   },
   "Vitiligo": {
     "__HEADING__": "Vitiligo",
@@ -3658,7 +3658,7 @@
   "lactose intolerance": {
     "__HEADING__": "Lactose intolerance",
     "Other names": "Lactase deficiency, hypolactasia, alactasia, lactose challenged",
-    "__IMAGE_SRC__": "/wiki/File:Lactose_Haworth.svg",
+    "__IMAGE_SRC__": "/wiki/File:Lactose_Haworth.jpg",
     "Specialty": "Gastroenterology",
     "Symptoms": "Abdominal pain, bloating, diarrhea, flatulence, nausea",
     "Complications": "Does not cause damage to the GI tract",
@@ -3668,7 +3668,7 @@
     "Differential diagnosis": "Irritable bowel syndrome, celiac disease, inflammatory bowel disease, milk allergy",
     "Treatment": "Decreasing lactose in the diet, lactase supplements, treat the underlying cause",
     "Frequency": "~65% of people (less common in Northern Europeans)",
-    "__IMAGE_FILE__": "Lactose_Haworth.svg"
+    "__IMAGE_FILE__": "Lactose_Haworth.jpg"
   },
   "papilloedema": {
     "__HEADING__": "Papilledema",
