@@ -53,7 +53,6 @@ def search(resp, dataset, dt):
     display_result(response)
 
 
-
 def debug_print(s):
     with open("log.txt", "a") as fp:
         fp.write(s + "\n")

@@ -14,8 +14,40 @@
     "Frequency": "~1% per year (United States)",
     "__IMAGE_FILE__": "Five_day_old_Abscess.jpg"
   },
-  "Acquired Capillary Haemangioma of Eyelid": {},
-  "Acquired Immuno Deficiency Syndrome": {},
+  "Acquired Capillary Haemangioma of Eyelid": {
+    "__HEADING__": "Infantile hemangioma",
+    "Other names": "Infantile haemangioma, emangioma, capillary hemangioma, capillary angioma, strawberry haemangioma, strawberry mark ",
+    "__IMAGE_SRC__": "/wiki/File:Capillary_haemangioma.jpg",
+    "Specialty": "Dermatology, gastroenterology, Oral and Maxillofacial Surgery",
+    "Symptoms": "Raised red or blue lesion",
+    "Complications": "Pain, bleeding, ulcer formation, heart failure, disfigurement",
+    "Usual onset": "First 4 weeks of life",
+    "Types": "Superficial, deep, mixed",
+    "Risk factors": "Females, white people, preemies, low birth weight babies",
+    "Diagnostic method": "Based on symptoms and appearance",
+    "Differential diagnosis": "Congenital hemangioma, pyogenic granuloma, kaposiform hemangioendothelioma, tufted angioma, venous malformation",
+    "Treatment": "Close observation, medication",
+    "Medication": "Propranolol, Timolol, steroids",
+    "Frequency": "Up to 5%",
+    "__IMAGE_FILE__": "Capillary_haemangioma.jpg"
+  },
+  "Acquired Immuno Deficiency Syndrome": {
+    "__HEADING__": "HIV/AIDS",
+    "Other names": "HIV disease, HIV infection",
+    "__IMAGE_SRC__": "/wiki/File:Red_Ribbon.svg",
+    "Specialty": "Infectious disease, immunology",
+    "Symptoms": "Early: Flu-like illnessLater: Large lymph nodes, fever, weight loss",
+    "Complications": "Opportunistic infections, tumors",
+    "Duration": "Lifelong",
+    "Causes": "Human immunodeficiency virus (HIV)",
+    "Risk factors": "Unprotected anal or vaginal sex, having another sexually transmitted infection, needle sharing, medical procedures involving unsterile cutting or piercing, and experiencing needlestick injury",
+    "Diagnostic method": "Blood tests",
+    "Prevention": "Safe sex, needle exchange, male circumcision, pre-exposure prophylaxis, post-exposure prophylaxis",
+    "Treatment": "Antiretroviral therapy",
+    "Prognosis": "Near normal life expectancy with treatment11 years life expectancy without treatment",
+    "Frequency": "55.9 million \u2013 100 million total cases1.5 million new cases (2020)37 million living with HIV (2020)",
+    "Deaths": "36.3 million total deaths680,000 (2020)"
+  },
   "Acute encephalitis syndrome": {
     "__HEADING__": "Encephalitis",
     "__IMAGE_SRC__": "/wiki/File:Hsv_encephalitis.jpg",
@@ -32,9 +64,49 @@
     "Deaths": "150,000 (2015)",
     "__IMAGE_FILE__": "Hsv_encephalitis.jpg"
   },
-  "Adult Inclusion Conjunctivitis": {},
-  "Alcohol Abuse and Alcoholism": {},
-  "Alopecia (hair loss)": {},
+  "Adult Inclusion Conjunctivitis": {
+    "__HEADING__": "Conjunctivitis",
+    "Other names": "Pink eye",
+    "__IMAGE_SRC__": "/wiki/File:An_eye_with_viral_conjunctivitis.jpg",
+    "Specialty": "Ophthalmology, optometry",
+    "Symptoms": "Reddish eye, scratchiness",
+    "Duration": "Viral conjunctivitis: up to two weeks",
+    "Causes": "Viral, bacterial, allergies",
+    "Diagnostic method": "Based on symptoms, microbial culture",
+    "Prevention": "Handwashing",
+    "Treatment": "Based on underlying cause",
+    "Frequency": "3\u20136 million per year (US)",
+    "__IMAGE_FILE__": "An_eye_with_viral_conjunctivitis.jpg"
+  },
+  "Alcohol Abuse and Alcoholism": {
+    "__HEADING__": "Alcoholism",
+    "Other names": "Alcohol addiction, alcohol dependence syndrome, alcohol use disorder (AUD)",
+    "__IMAGE_SRC__": "/wiki/File:A_wife_asking_her_drunkard_husband_to_hand_over_a_bottle_Wellcome_L0067935.jpg",
+    "Specialty": "Psychiatry, clinical psychology, toxicology, addiction medicine",
+    "Symptoms": "Drinking large amounts of alcohol over a long period, difficulty cutting down, acquiring and drinking alcohol taking up a lot of time, usage resulting in problems, withdrawal occurring when stopping",
+    "Complications": "Mental illness, delirium, Wernicke\u2013Korsakoff syndrome, irregular heartbeat, cirrhosis of the liver, cancer, fetal alcohol spectrum disorder, suicide",
+    "Duration": "Long term",
+    "Causes": "Environmental and genetic factors",
+    "Risk factors": "Stress, anxiety, inexpensive, easy access",
+    "Diagnostic method": "Questionnaires, blood tests",
+    "Treatment": "Alcohol cessation typically with benzodiazepines, counselling, acamprosate, disulfiram, naltrexone[10]",
+    "Frequency": "380 million / 5.1% adults (2016)[11][12]",
+    "Deaths": "3.3 million / 5.9%[13]"
+  },
+  "Alopecia (hair loss)": {
+    "__HEADING__": "Hair loss",
+    "Other names": "Alopecia, baldness",
+    "__IMAGE_SRC__": "/wiki/File:Alopecia.jpg",
+    "Pronunciation": "Alopecia: /\u02cc\u00e6lo\u028a\u02c8pi\u02d0\u0283\u0259/ ",
+    "Specialty": "Dermatology",
+    "Symptoms": "Loss of hair from part of the head or body.",
+    "Complications": "Psychological distress",
+    "Types": "Male-pattern hair loss, female-pattern hair loss, alopecia areata, telogen effluvium",
+    "Treatment": "Accepting the condition, medications, surgery",
+    "Medication": "Pattern hair loss: minoxidil, finasterideAlopecia areata: steroid injections",
+    "Frequency": "50% of males, 25% of females (pattern hair loss by age 50)",
+    "__IMAGE_FILE__": "Alopecia.jpg"
+  },
   "Alzheimer": {
     "__HEADING__": "Alzheimer's disease",
     "__IMAGE_SRC__": "/wiki/File:Brain-ALZH.png",
@@ -114,7 +186,11 @@
     "Symptoms": "Eyes' refractive power differs significantly",
     "Complications": "Amblyopia"
   },
-  "Antepartum hemorrhage (Bleeding in late pregnancy)": {},
+  "Antepartum hemorrhage (Bleeding in late pregnancy)": {
+    "__HEADING__": "Antepartum bleeding",
+    "Other names": "Antepartum haemorrhage (APH), prepartum haemorrhage",
+    "Specialty": "Obstetrics\u00a0"
+  },
   "Anthrax": {
     "__HEADING__": "Anthrax",
     "__IMAGE_SRC__": "/wiki/File:Anthrax_PHIL_2033.png",
@@ -129,7 +205,22 @@
     "Prognosis": "20\u201380% die without treatment",
     "Frequency": ">2,000 cases per year"
   },
-  "Anxiety": {},
+  "Anxiety": {
+    "__HEADING__": "Anxiety disorder",
+    "__IMAGE_SRC__": "/wiki/File:The_Scream.jpg",
+    "Specialty": "Psychiatry, clinical psychology",
+    "Symptoms": "Worrying, fast heart rate, shakiness",
+    "Complications": "Depression, trouble sleeping, poor quality of life, suicide",
+    "Usual onset": "15\u201335 years old",
+    "Duration": "> 6 months",
+    "Causes": "Genetic, environmental, and psychological factors",
+    "Risk factors": "Child abuse, family history, poverty",
+    "Diagnostic method": "Psychological assessment",
+    "Differential diagnosis": "Hyperthyroidism; heart disease; caffeine, alcohol, cannabis use; withdrawal from certain drugs",
+    "Treatment": "Lifestyle changes, counselling, medications",
+    "Medication": "Antidepressants, anxiolytics, beta blockers",
+    "Frequency": "12% per year"
+  },
   "Appendicitis": {
     "__HEADING__": "Appendicitis",
     "Other names": "Epityphlitis",
@@ -218,7 +309,19 @@
     "Frequency": "24.8 million (2015)[12]",
     "__IMAGE_FILE__": "Autism-stacking-cans_2nd_edit.jpg"
   },
-  "Bad Breath (Halitosis)": {},
+  "Bad Breath (Halitosis)": {
+    "__HEADING__": "Bad breath",
+    "Other names": "Halitosis, fetor oris, oral malodour, putrid breath",
+    "__IMAGE_SRC__": "/wiki/File:Depiction_of_a_person_who_has_Halitosis_(or_bad_breath).png",
+    "Specialty": "Gastroenterology, otorhinolaryngology, dentistry",
+    "Symptoms": "Unpleasant smell present on breath",
+    "Complications": "Anxiety, depression, obsessive compulsive disorder",
+    "Types": "Genuine, non-genuine",
+    "Causes": "Usually from inside the mouth",
+    "Treatment": "Depends on cause, tongue cleaning, mouthwash, flossing",
+    "Medication": "Mouthwash containing chlorhexidine or cetylpyridinium chloride",
+    "Frequency": "~30% of people"
+  },
   "Bell's Palsy": {
     "__HEADING__": "Bell's palsy",
     "__IMAGE_SRC__": "/wiki/File:Bellspalsy.JPG",
@@ -257,7 +360,12 @@
     "Date": "1346\u20131353",
     "Deaths": "75,000,000\u2013200,000,000 (estimated)"
   },
-  "Bleeding Gums": {},
+  "Bleeding Gums": {
+    "__HEADING__": "Periodontitis",
+    "__IMAGE_SRC__": "/wiki/File:Gingivitis_(crop).jpg",
+    "Specialty": "Dentistry",
+    "__IMAGE_FILE__": "Gingivitis_%28crop%29.jpg"
+  },
   "Blindness": {
     "__HEADING__": "Visual impairment",
     "Other names": "Vision impairment, vision loss",
@@ -304,7 +412,18 @@
     "Deaths": "228,800 (worldwide, 2015)",
     "__IMAGE_FILE__": "Hirnmetastase_MRT-T1_KM.jpg"
   },
-  "Breast Cancer / Carcinoma": {},
+  "Breast Cancer / Carcinoma": {
+    "__HEADING__": "Breast cancer",
+    "__IMAGE_SRC__": "/wiki/File:Breast_Cancer.png",
+    "Specialty": "Oncology",
+    "Symptoms": "A lump in a breast, a change in breast shape, dimpling of the skin, fluid from the nipple, a newly inverted nipple, a red scaly patch of skin on the breast",
+    "Risk factors": "Being female, obesity, lack of exercise, alcohol, hormone replacement therapy during menopause, ionizing radiation, early age at first menstruation, having children late in life or not at all, older age, prior breast cancer, family history of breast cancer, Klinefelter syndrome",
+    "Diagnostic method": "Tissue biopsy Mammography",
+    "Treatment": "Surgery, radiation therapy, chemotherapy, hormonal therapy, targeted therapy",
+    "Prognosis": "Five-year survival rate \u224885% (US, UK)",
+    "Frequency": "2.2\u00a0million affected as of 2020",
+    "Deaths": "685,000 (2020)"
+  },
   "Bronchitis": {
     "__HEADING__": "Bronchitis",
     "__IMAGE_SRC__": "/wiki/File:Bronchitis.jpg",
@@ -351,8 +470,34 @@
     "Frequency": "~23% of adults",
     "__IMAGE_FILE__": "Hallux_Valgus-Aspect_pr%C3%A9_op_d%C3%A9charge.JPG"
   },
-  "Burns": {},
-  "Calculi": {},
+  "Burns": {
+    "__HEADING__": "Burn",
+    "__IMAGE_SRC__": "/wiki/File:Hand2ndburn.jpg",
+    "Specialty": "Dermatology Critical care medicine, plastic surgery",
+    "Symptoms": "First degree: Red without blistersSecond degree: Blisters and painThird degree: Area stiff and not painful \nFourth Degree: Bone and tendon loss ",
+    "Complications": "Infection",
+    "Duration": "Days to weeks",
+    "Types": "First degree, Second degree, Third degree, Fourth degree ",
+    "Causes": "Heat, cold, electricity, chemicals, friction, radiation",
+    "Risk factors": "Open cooking fires, unsafe cook stoves, smoking, alcoholism, dangerous work environment",
+    "Treatment": "Depends on the severity",
+    "Medication": "Pain medication, intravenous fluids, tetanus toxoid",
+    "Frequency": "67 million (2015)",
+    "Deaths": "176,000 (2015)",
+    "__IMAGE_FILE__": "Hand2ndburn.jpg"
+  },
+  "Calculi": {
+    "__HEADING__": "Bladder stone",
+    "Other names": "vesical calculus, cystolith",
+    "__IMAGE_SRC__": "/wiki/File:Urinary_Bladder_stone_04.jpg",
+    "Specialty": "Urology\u00a0",
+    "Symptoms": "Pain",
+    "Complications": "cystitis",
+    "Causes": "Calcium",
+    "Prevention": "Diet",
+    "Treatment": "Juice Soda Vinegar Surgery",
+    "__IMAGE_FILE__": "Urinary_Bladder_stone_04.jpg"
+  },
   "Campylobacter infection": {
     "__HEADING__": "Campylobacteriosis",
     "Other names": "Campylobacter food poisoning \u2013 campylobacter enteritis",
@@ -419,8 +564,40 @@
     "Treatment": "Wrist splint, corticosteroid injections, surgery",
     "Frequency": "5\u201310%"
   },
-  "Cavities": {},
-  "Celiacs disease": {},
+  "Cavities": {
+    "__HEADING__": "Tooth decay",
+    "Other names": "Dental cavities, dental caries, cavities, caries",
+    "__IMAGE_SRC__": "/wiki/File:Dental_Caries_Cavity_2.JPG",
+    "Pronunciation": "Caries /\u02c8k\u025b\u0259ri\u02d0z/ ",
+    "Specialty": "Dentistry",
+    "Symptoms": "Pain, tooth loss, difficulty eating",
+    "Complications": "Inflammation around the tooth, tooth loss, infection or abscess formation",
+    "Duration": "Long term",
+    "Causes": "Bacteria producing acid from food debris",
+    "Risk factors": "Diet high in simple sugar, diabetes mellitus, Sj\u00f6gren syndrome, medications that decrease saliva",
+    "Prevention": "Low-sugar diet, tooth brushing, fluoride, flossing",
+    "Medication": "Paracetamol (acetaminophen), ibuprofen",
+    "Frequency": "3.6 billion (2016)",
+    "__IMAGE_FILE__": "Dental_Caries_Cavity_2.JPG"
+  },
+  "Celiacs disease": {
+    "__HEADING__": "Coeliac disease",
+    "Other names": "Celiac sprue, nontropical sprue, endemic sprue, gluten enteropathy",
+    "__IMAGE_SRC__": "/wiki/File:Coeliac_path.jpg",
+    "Pronunciation": "/\u02c8si\u02d0li\u00e6k/ SEE-lee-ak ",
+    "Specialty": "Gastroenterology, internal medicine",
+    "Symptoms": "None or non-specific, abdominal distention, diarrhoea, constipation, malabsorption, weight loss, dermatitis herpetiformis",
+    "Complications": "Iron-deficiency anemia, osteoporosis, infertility, cancers, neurological problems, other autoimmune diseases",
+    "Usual onset": "Any age",
+    "Duration": "Lifelong",
+    "Causes": "Reaction to gluten",
+    "Risk factors": "Genetic predisposition, type 1 diabetes, autoimmune thyroid disease, Down and Turner syndrome",
+    "Diagnostic method": "Family history, blood antibody tests, intestinal biopsies, genetic testing, response to gluten withdrawal[10][11]",
+    "Differential diagnosis": "Inflammatory bowel disease, intestinal parasites, irritable bowel syndrome, cystic fibrosis[12]",
+    "Treatment": "Gluten-free diet[13]",
+    "Frequency": "~1 in 135[14]",
+    "__IMAGE_FILE__": "Coeliac_path.jpg"
+  },
   "Cerebral palsy": {
     "__HEADING__": "Cerebral palsy",
     "__IMAGE_SRC__": "/wiki/File:USS_Kearsarge_medical_team_treat_patients_at_Arima_District_Health_Facility_DVIDS126489.jpg",
@@ -495,7 +672,13 @@
     "Prognosis": "Risk of death ~ 1 in 1,000",
     "Frequency": "> 1 million (2014)"
   },
-  "Childhood Exotropia": {},
+  "Childhood Exotropia": {
+    "__HEADING__": "Exotropia",
+    "Other names": "Divergent squint, wall eyes",
+    "__IMAGE_SRC__": "/wiki/File:David_Prowse_2013.jpg",
+    "Specialty": "Ophthalmology",
+    "__IMAGE_FILE__": "David_Prowse_2013.jpg"
+  },
   "Chlamydia": {
     "__HEADING__": "Chlamydia",
     "Other names": "Chlamydia infection",
@@ -547,7 +730,25 @@
     "Treatment": "Symptomatic",
     "Frequency": "About 0.68 to 1% globally[10][11]"
   },
-  "Chronic obstructive pulmonary disease (COPD)": {},
+  "Chronic obstructive pulmonary disease (COPD)": {
+    "__HEADING__": "Chronic obstructive pulmonary disease",
+    "Other names": "Chronic obstructive lung disease (COLD), chronic obstructive airway disease (COAD)",
+    "__IMAGE_SRC__": "/wiki/File:Emphysema,_centrilobular_(4563270814).jpg",
+    "Specialty": "Pulmonology",
+    "Symptoms": "Shortness of breath, chronic cough",
+    "Complications": "Anxiety, depression, pulmonary heart disease, pneumothorax",
+    "Usual onset": "Over 35 years old",
+    "Duration": "Long term",
+    "Causes": "Tobacco smoking, air pollution, genetics",
+    "Diagnostic method": "Spirometry",
+    "Differential diagnosis": "Asthma, congestive heart failure, bronchiectasis, tuberculosis, obliterative bronchiolitis, diffuse panbronchiolitis",
+    "Prevention": "Stopping smoking, improving indoor and outdoor air quality, tobacco control measures",
+    "Treatment": "Pulmonary rehabilitation, long-term oxygen therapy, lung volume reduction",
+    "Medication": "Inhaled bronchodilators and steroids",
+    "Frequency": "174.5\u00a0million (2015)",
+    "Deaths": "3.2\u00a0million (2019)",
+    "__IMAGE_FILE__": "Emphysema%2C_centrilobular_%284563270814%29.jpg"
+  },
   "Cleft Lip and Cleft Palate": {
     "__HEADING__": "Cleft lip and palate",
     "Other names": "Hare-lip, cleft lip and palate",
@@ -601,8 +802,37 @@
     "Medication": "NSAIDs[11]",
     "Frequency": "2\u20133 per year (adults); 6\u20138 per year (children)[12]"
   },
-  "Condyloma": {},
-  "Congenital anomalies (birth defects)": {},
+  "Condyloma": {
+    "__HEADING__": "Genital warts",
+    "Other names": "Condylomata acuminata, venereal warts, anal warts, anogenital warts",
+    "__IMAGE_SRC__": "/wiki/File:SOA-Condylomata-acuminata-around-anus.jpg",
+    "Specialty": "Infectious disease",
+    "Symptoms": "Skin lesion that is generally pink in color and project outward",
+    "Usual onset": "1-8 months following exposure",
+    "Causes": "HPV types 6 and 11",
+    "Diagnostic method": "Based on symptoms, can be confirmed by biopsy",
+    "Differential diagnosis": "Molluscum contagiosum, skin tags, condyloma latum, squamous cell carcinoma",
+    "Prevention": "HPV vaccine, condoms",
+    "Treatment": "Medications, cryotherapy, surgery",
+    "Medication": "Podophyllin, imiquimod, trichloroacetic acid",
+    "Frequency": "~1% (US)",
+    "__IMAGE_FILE__": "SOA-Condylomata-acuminata-around-anus.jpg"
+  },
+  "Congenital anomalies (birth defects)": {
+    "__HEADING__": "Birth defect",
+    "Other names": "Congenital disorder, congenital disease, congenital deformity, congenital anomaly",
+    "__IMAGE_SRC__": "/wiki/File:A_boy_with_Down_syndrome_using_cordless_drill_to_assemble_a_book_case.jpg",
+    "Specialty": "Medical genetics, pediatrics",
+    "Symptoms": "Physical disability, intellectual disability, developmental disability",
+    "Usual onset": "Present at birth",
+    "Types": "Structural, functional",
+    "Causes": "Genetics, exposure to certain medications or chemicals, certain infections during pregnancy",
+    "Risk factors": "Insufficient folic acid, drinking alcohol or smoking, poorly controlled diabetes, mother over the age of 35",
+    "Treatment": "Therapy, medication, surgery, assistive technology",
+    "Frequency": "3% of newborns (US)",
+    "Deaths": "628,000 (2015)",
+    "__IMAGE_FILE__": "A_boy_with_Down_syndrome_using_cordless_drill_to_assemble_a_book_case.jpg"
+  },
   "Congestive heart disease": {
     "__HEADING__": "Heart failure",
     "Other names": "Congestive heart failure (CHF), congestive cardiac failure (CCF)",
@@ -675,7 +905,20 @@
     "Specialty": "Infectious disease",
     "__IMAGE_FILE__": "Pertussis.jpg"
   },
-  "Crimean Congo haemorrhagic fever (CCHF)": {},
+  "Crimean Congo haemorrhagic fever (CCHF)": {
+    "__HEADING__": "Crimean\u2013Congo hemorrhagic fever",
+    "__IMAGE_SRC__": "/wiki/File:Crimean-Congo_Hemorrhagic_Fever.jpg",
+    "Specialty": "Infectious disease",
+    "Symptoms": "Fever, muscle pains, headache, vomiting, diarrhea, bleeding into the skin",
+    "Complications": "Liver failure",
+    "Usual onset": "Rapid",
+    "Duration": "Two weeks",
+    "Diagnostic method": "Detecting antibodies, the virus's RNA, or viral proteins (antigens).",
+    "Differential diagnosis": "Dengue fever, Q fever, Ebola virus disease",
+    "Treatment": "Supportive care, ribavirin",
+    "Prognosis": "Risk of death ~25%",
+    "__IMAGE_FILE__": "Crimean-Congo_Hemorrhagic_Fever.jpg"
+  },
   "Dehydration": {
     "__HEADING__": "Dehydration",
     "__IMAGE_SRC__": "/wiki/File:Cholera_rehydration_nurses.jpg",
@@ -791,7 +1034,20 @@
     "Frequency": "5.4 million (0.1%)[10]",
     "__IMAGE_FILE__": "Down_syndrome_lg.jpg"
   },
-  "Dracunculiasis (guinea-worm disease)": {},
+  "Dracunculiasis (guinea-worm disease)": {
+    "__HEADING__": "Dracunculiasis",
+    "Other names": "Guinea-worm disease",
+    "__IMAGE_SRC__": "/wiki/File:Dracunculus_medinensis.jpg",
+    "Specialty": "Infectious disease",
+    "Symptoms": "Painful blister that a white worm crawls out of",
+    "Usual onset": "One year after exposure",
+    "Causes": "Guinea worm-infected water fleas",
+    "Prevention": "Preventing those infected from putting the wound in drinking water, treating contaminated water",
+    "Treatment": "Slowly extracting worm, supportive care",
+    "Frequency": "14 cases worldwide (2021)",
+    "Deaths": "~1% of cases",
+    "__IMAGE_FILE__": "Dracunculus_medinensis.jpg"
+  },
   "Dysentery": {
     "__HEADING__": "Dysentery",
     "Other names": "Bloody diarrhea",
@@ -929,7 +1185,24 @@
     "Deaths": "125,000 (2015)",
     "__IMAGE_FILE__": "Spike-waves.png"
   },
-  "Fibroids": {},
+  "Fibroids": {
+    "__HEADING__": "Uterine fibroids",
+    "Other names": "Uterine leiomyoma, uterine myoma, myoma, fibromyoma, fibroleiomyoma",
+    "__IMAGE_SRC__": "/wiki/File:Uterine_fibroids.jpg",
+    "Specialty": "Gynecology",
+    "Symptoms": "Painful or heavy periods",
+    "Complications": "Infertility",
+    "Usual onset": "Middle and later reproductive years",
+    "Causes": "Unknown",
+    "Risk factors": "Family history, obesity, eating red meat",
+    "Diagnostic method": "Pelvic examination, medical imaging",
+    "Differential diagnosis": "Leiomyosarcoma, pregnancy, ovarian cyst, ovarian cancer",
+    "Treatment": "Medications, surgery, uterine artery embolization",
+    "Medication": "Ibuprofen, paracetamol (acetaminophen), iron supplements, gonadotropin releasing hormone agonist",
+    "Prognosis": "Improve after menopause",
+    "Frequency": "~50% of women by age 50",
+    "__IMAGE_FILE__": "Uterine_fibroids.jpg"
+  },
   "Fibromyalgia": {
     "__HEADING__": "Fibromyalgia",
     "Other names": "Fibromyalgia syndrome (FMS)",
@@ -947,7 +1220,9 @@
     "Prognosis": "Normal life expectancy",
     "Frequency": "2\u20138%"
   },
-  "Food Poisoning": {},
+  "Food Poisoning": {
+    "null": "todo"
+  },
   "Frost Bite": {
     "__HEADING__": "Frostbite",
     "Other names": "Frostnip",
@@ -1121,7 +1396,23 @@
     "Frequency": "As outbreaks",
     "__IMAGE_FILE__": "Hand_Foot_Mouth_Disease.png"
   },
-  "Heat-Related Illnesses and Heat waves": {},
+  "Heat-Related Illnesses and Heat waves": {
+    "__HEADING__": "Heat stroke",
+    "Other names": "Sun stroke, siriasis",
+    "__IMAGE_SRC__": "/wiki/File:The_British_Army_in_the_Middle_East_1943_E26027.jpg",
+    "Specialty": "Emergency medicine",
+    "Symptoms": "High body temperature, red, dry or damp skin, headache, dizziness, confusion, nausea",
+    "Complications": "Seizures, rhabdomyolysis, kidney failure",
+    "Types": "Classic, exertional",
+    "Causes": "High external temperatures, physical exertion",
+    "Risk factors": "Extremes of age, heat waves, high humidity, certain drugs, heart disease, skin disorders",
+    "Diagnostic method": "Based on symptoms",
+    "Differential diagnosis": "Neuroleptic malignant syndrome, malaria, meningitis",
+    "Treatment": "Rapid cooling, supportive care",
+    "Prognosis": "Risk of death <5% (exercise induced), up to 65% (non exercise induced)",
+    "Deaths": "> 600 per year (US)",
+    "__IMAGE_FILE__": "The_British_Army_in_the_Middle_East_1943_E26027.jpg"
+  },
   "Hepatitis": {
     "__HEADING__": "Hepatitis",
     "__IMAGE_SRC__": "/wiki/File:Alcoholic_hepatitis.jpg",
@@ -1434,7 +1725,19 @@
     "Treatment": "Based on the underlying cause",
     "__IMAGE_FILE__": "Jaundice08.jpg"
   },
-  "Kala-azar/ Leishmaniasis": {},
+  "Kala-azar/ Leishmaniasis": {
+    "__HEADING__": "Leishmaniasis",
+    "Other names": "Leishmaniosis",
+    "__IMAGE_SRC__": "/wiki/File:Skin_ulcer_due_to_leishmaniasis,_hand_of_Central_American_adult_3MG0037_lores.jpg",
+    "Pronunciation": "Leishmaniasis /\u02ccli\u02d0\u0283m\u0259\u02c8na\u026a\u0259s\u026as/leishmaniosis /li\u02d0\u0283\u02ccme\u026ani\u02c8o\u028as\u026as, -\u02ccm\u00e6ni-/ ",
+    "Specialty": "Infectious disease",
+    "Symptoms": "Skin ulcers, fever, low red blood cells, enlarged liver",
+    "Causes": "Leishmania parasites spread by sandflies",
+    "Prevention": "Bug nets, insecticide",
+    "Frequency": "4\u201312 million",
+    "Deaths": "24,200 (2015)",
+    "__IMAGE_FILE__": "Skin_ulcer_due_to_leishmaniasis%2C_hand_of_Central_American_adult_3MG0037_lores.jpg"
+  },
   "Kaposi\u2019s Sarcoma": {
     "__HEADING__": "Kaposi's sarcoma, multiple haemorrhagic sarcoma",
     "Other names": "Kaposi sarcoma",
@@ -1451,7 +1754,19 @@
     "Deaths": "20,000 (2018)",
     "__IMAGE_FILE__": "Kaposis_sarcoma_01.jpg"
   },
-  "Keratoconjunctivitis Sicca (Dry eye syndrome)": {},
+  "Keratoconjunctivitis Sicca (Dry eye syndrome)": {
+    "__HEADING__": "Dry eye syndrome",
+    "Other names": "Dry eye, keratoconjunctivitis sicca, dry eye disease (DED), keratitis sicca",
+    "__IMAGE_SRC__": "/wiki/File:LG3-LRG.jpg",
+    "Specialty": "Ophthalmology, Optometry",
+    "Symptoms": "Dry eyes, irritation, redness, discharge, blurred vision",
+    "Complications": "Corneal scarring",
+    "Causes": "Contact lenses, meibomian gland dysfunction, pregnancy, Sj\u00f6gren syndrome, vitamin A deficiency, LASIK surgery, antihistamines, hormone replacement therapy, antidepressants",
+    "Treatment": "Artificial tears, wrap around glasses, changing certain medications",
+    "Medication": "Ciclosporin, steroid eye drops",
+    "Frequency": "~20%",
+    "__IMAGE_FILE__": "LG3-LRG.jpg"
+  },
   "Keratoconus": {
     "__HEADING__": "Keratoconus",
     "Other names": "KC, KCN, conical cornea",
@@ -1466,7 +1781,25 @@
     "Frequency": "~1 in 2,000 people",
     "__IMAGE_FILE__": "Keratoconus-with-Munsons-sign-USA-1965.jpg"
   },
-  "Kuru": {},
+  "Kuru": {
+    "__HEADING__": "Kuru",
+    "__IMAGE_SRC__": "/wiki/File:PMC4235695_pathogens-02-00472-g009.png",
+    "Specialty": "Neuropathology",
+    "Symptoms": "Body tremors, random outbursts of laughter, gradual loss of coordination",
+    "Complications": "Infection and pneumonia during the terminal stage.",
+    "Usual onset": "Often takes years or even decades for symptoms to appear after exposure",
+    "Duration": "11\u201314 month life expectancy after onset of symptoms",
+    "Causes": "Transmission of infected prion proteins",
+    "Risk factors": "Cannibalism",
+    "Diagnostic method": "Autopsy",
+    "Differential diagnosis": "Creutzfeldt\u2013Jakob disease",
+    "Prevention": "Avoid practices of cannibalism",
+    "Treatment": "None",
+    "Prognosis": "Always fatal",
+    "Frequency": "2,700 (1957\u20132004)",
+    "Deaths": "Approximately 2,700",
+    "__IMAGE_FILE__": "PMC4235695_pathogens-02-00472-g009.png"
+  },
   "Laryngitis": {
     "__HEADING__": "Laryngitis",
     "__IMAGE_SRC__": "/wiki/File:Laryngitis_gastrica.jpg",
@@ -1717,7 +2050,12 @@
     "Deaths": "59,800 (2015)",
     "__IMAGE_FILE__": "Melanoma.jpg"
   },
-  "Middle East respiratory syndrome coronavirus (MERS\u2010CoV)": {},
+  "Middle East respiratory syndrome coronavirus (MERS\u2010CoV)": {
+    "__HEADING__": "Middle East respiratory syndrome\u2013related coronavirus\n",
+    "__IMAGE_SRC__": "/wiki/File:MERS-CoV_electron_micrograph1.jpg",
+    "<a href=\"/wiki/Virus_classification\" title=\"Virus classification\">Virus classification</a> <span class=\"plainlinks\" style=\"font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;\"><a href=\"/wiki/Template:Taxonomy/Merbecovirus\" title=\"e\"><img alt=\"e\" data-file-height=\"16\" data-file-width=\"16\" decoding=\"async\" height=\"16\" src=\"//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png\" width=\"16\"/></a></span>\n": null,
+    "__IMAGE_FILE__": "MERS-CoV_electron_micrograph1.jpg"
+  },
   "Migraine": {
     "__HEADING__": "Migraine",
     "__IMAGE_SRC__": "/wiki/File:Migraine.jpg",
@@ -1831,7 +2169,22 @@
     "__HEADING__": "Myelitis",
     "Specialty": "Neurology\u00a0"
   },
-  "Myocardial Infarction (Heart Attack)": {},
+  "Myocardial Infarction (Heart Attack)": {
+    "__HEADING__": "Myocardial infarction",
+    "Other names": "Acute myocardial infarction (AMI), heart attack",
+    "__IMAGE_SRC__": "/wiki/File:Blausen_0463_HeartAttack.png",
+    "Specialty": "Cardiology, emergency medicine",
+    "Symptoms": "Chest pain, shortness of breath, nausea, feeling faint, cold sweat, feeling tired; arm, neck, back, jaw, or stomach pain",
+    "Complications": "Heart failure, irregular heartbeat, cardiogenic shock, cardiac arrest",
+    "Causes": "Usually coronary artery disease",
+    "Risk factors": "High blood pressure, smoking, diabetes, lack of exercise, obesity, high blood cholesterol",
+    "Diagnostic method": "Electrocardiograms (ECGs), blood tests, coronary angiography",
+    "Treatment": "Percutaneous coronary intervention, thrombolysis",
+    "Medication": "Aspirin, nitroglycerin, heparin",
+    "Prognosis": "STEMI 10% risk of death (developed world)",
+    "Frequency": "15.9 million (2015)[10]",
+    "__IMAGE_FILE__": "Blausen_0463_HeartAttack.png"
+  },
   "Myopia": {
     "__HEADING__": "Myopia",
     "Other names": "short-sightedness, near-sightedness",
@@ -1877,7 +2230,19 @@
     "Frequency": "~4%",
     "__IMAGE_FILE__": "Polype_nasal.jpg"
   },
-  "Nausea and Vomiting of Pregnancy and  Hyperemesis gravidarum": {},
+  "Nausea and Vomiting of Pregnancy and  Hyperemesis gravidarum": {
+    "__HEADING__": "Hyperemesis gravidarum",
+    "Specialty": "Obstetrics  Gastroenterology",
+    "Symptoms": "Nausea and vomiting such that weight loss and dehydration occur",
+    "Duration": "Often gets better but may last entire pregnancy",
+    "Causes": "Unknown",
+    "Risk factors": "First pregnancy, multiple pregnancy, obesity, prior or family history of hyperemesis gravidarum, trophoblastic disorder, history of an eating disorder",
+    "Diagnostic method": "Based on symptoms",
+    "Differential diagnosis": "Urinary tract infection, high thyroid levels",
+    "Treatment": "Drinking fluids, bland diet, intravenous fluids",
+    "Medication": "Pyridoxine, metoclopramide",
+    "Frequency": "~1% of pregnant women"
+  },
   "Necrotizing Fasciitis": {
     "__HEADING__": "Necrotizing fasciitis",
     "Other names": "Flesh-eating bacteria, flesh-eating bacteria syndrome, necrotizing soft tissue infection (NSTI), fasciitis necroticans",
@@ -1896,7 +2261,13 @@
     "Frequency": "0.7 per 100,000 per year",
     "__IMAGE_FILE__": "Necrotizing_fasciitis_left_leg.JPEG"
   },
-  "Neonatal Respiratory Disease Syndrome(NRDS)": {},
+  "Neonatal Respiratory Disease Syndrome(NRDS)": {
+    "__HEADING__": "Infant respiratory distress syndrome",
+    "Other names": "Neonatal respiratory distress syndrome ",
+    "__IMAGE_SRC__": "/wiki/File:X-ray_of_infant_respiratory_distress_syndrome_(IRDS).png",
+    "Specialty": "Pediatrics, obstetrics\u00a0",
+    "__IMAGE_FILE__": "X-ray_of_infant_respiratory_distress_syndrome_%28IRDS%29.png"
+  },
   "Neoplasm": {
     "__HEADING__": "Neoplasm",
     "Other names": "Tumor, tumour, carcinocytes",
@@ -1968,7 +2339,12 @@
     "Frequency": "355,000 new cases (2018)",
     "Deaths": "177,000 (2018)"
   },
-  "Orbital Dermoid": {},
+  "Orbital Dermoid": {
+    "__HEADING__": "Dermoid cyst",
+    "__IMAGE_SRC__": "/wiki/File:Mature_cystic_teratoma_of_ovary.jpg",
+    "Specialty": "Gynecology",
+    "__IMAGE_FILE__": "Mature_cystic_teratoma_of_ovary.jpg"
+  },
   "Osteoarthritis": {
     "__HEADING__": "Osteoarthritis",
     "Other names": "Degenerative arthritis, degenerative joint disease, osteoarthrosis",
@@ -2065,7 +2441,12 @@
     "Frequency": "1.5 percent of young women yearly",
     "__IMAGE_FILE__": "Blausen_0732_PID-Sites.png"
   },
-  "Perennial Allergic Conjunctivitis": {},
+  "Perennial Allergic Conjunctivitis": {
+    "__HEADING__": "Allergic eye disease",
+    "__IMAGE_SRC__": "/wiki/File:Blausen_0013_AllergicConjunctivitis.png",
+    "Specialty": "Ophthalmology, allergology\u00a0",
+    "__IMAGE_FILE__": "Blausen_0013_AllergicConjunctivitis.png"
+  },
   "Pericarditis": {
     "__HEADING__": "Pericarditis",
     "__IMAGE_SRC__": "/wiki/File:Pericarditis10.JPG",
@@ -2136,7 +2517,23 @@
     "Frequency": "136 people (2018)",
     "__IMAGE_FILE__": "Polio_lores134.jpg"
   },
-  "Polycystic ovary syndrome (PCOS)": {},
+  "Polycystic ovary syndrome (PCOS)": {
+    "__HEADING__": "Polycystic ovary syndrome",
+    "Other names": "Hyperandrogenic anovulation (HA),\nStein-Leventhal syndrome",
+    "__IMAGE_SRC__": "/wiki/File:Polycystic_Ovaries.jpg",
+    "Specialty": "Gynecology, Endocrinology",
+    "Symptoms": "Irregular menstrual periods, heavy periods, excess hair, acne, pelvic pain, difficulty getting pregnant, patches of thick, darker, velvety skin",
+    "Complications": "Type 2 diabetes, obesity, obstructive sleep apnea, heart disease, mood disorders, endometrial cancer",
+    "Duration": "Long term",
+    "Causes": "Genetic and environmental factors",
+    "Risk factors": "Obesity, not enough exercise, family history",
+    "Diagnostic method": "Based on anovulation, high androgen levels, ovarian cysts",
+    "Differential diagnosis": "Adrenal hyperplasia, hypothyroidism, high blood levels of prolactin",
+    "Treatment": "Weight loss, exercise[10][11]",
+    "Medication": "Birth control pills, metformin, anti-androgens[12]",
+    "Frequency": "2% to 20% of women of childbearing age[13]",
+    "__IMAGE_FILE__": "Polycystic_Ovaries.jpg"
+  },
   "Porphyria": {
     "__HEADING__": "Porphyria",
     "__IMAGE_SRC__": "/wiki/File:Urine_of_patient_with_porphyria.png",
@@ -2161,7 +2558,21 @@
     "Symptoms": "burning or stabbing pain, pain doesn't end after the shingles subsides.",
     "Duration": "lifelong"
   },
-  "Postpartum depression/ Perinatal depression": {},
+  "Postpartum depression/ Perinatal depression": {
+    "__HEADING__": "Postpartum depression",
+    "Other names": "Postnatal depression",
+    "__IMAGE_SRC__": "/wiki/File:Postpartum_Depression_Venus.jpg",
+    "Specialty": "Psychiatry",
+    "Symptoms": "Extreme sadness, low energy, anxiety, changes in sleeping or eating patterns, crying episodes, irritability",
+    "Usual onset": "A week to a month after childbirth",
+    "Causes": "Unclear",
+    "Risk factors": "Prior postpartum depression, bipolar disorder, family history of depression, psychological stress, complications of childbirth, lack of support, drug use disorder",
+    "Diagnostic method": "Based on symptoms",
+    "Differential diagnosis": "Baby blues",
+    "Treatment": "Counselling, medications",
+    "Frequency": "~15% of births",
+    "__IMAGE_FILE__": "Postpartum_Depression_Venus.jpg"
+  },
   "Preeclampsia": {
     "__HEADING__": "Pre-eclampsia",
     "Other names": "Preeclampsia toxaemia (PET)",
@@ -2278,8 +2689,31 @@
     "Frequency": "~450,000 per year (USA), 430,000 (Europe)",
     "Deaths": ">10\u201312,000 per year (US), >30\u201340,000 per year (Europe)[10]"
   },
-  "Ques fever": {},
-  "Quinsy": {},
+  "Ques fever": {
+    "__HEADING__": "Q\u00a0fever",
+    "Other names": "Query fever, coxiellosis",
+    "__IMAGE_SRC__": "/wiki/File:Immunohistochemical_detection_of_Coxiella_burnetii_in_resected_cardiac_valve_of_a_60-year-old_man_with_Q_fever_endocarditis.jpg",
+    "Specialty": "Infectious disease\u00a0",
+    "Types": "acute, chronic",
+    "Risk factors": "Contact with livestock",
+    "Differential diagnosis": "pneumonia, influenza, brucellosis, leptospirosis, meningitis, viral hepatitis, dengue fever, malaria, other rickettsial infections",
+    "__IMAGE_FILE__": "Immunohistochemical_detection_of_Coxiella_burnetii_in_resected_cardiac_valve_of_a_60-year-old_man_with_Q_fever_endocarditis.jpg"
+  },
+  "Quinsy": {
+    "__HEADING__": "Peritonsillar abscess",
+    "Other names": "Quinsy, quinsey",
+    "__IMAGE_SRC__": "/wiki/File:PeritonsilarAbsess.jpg",
+    "Specialty": "Otorhinolaryngology",
+    "Symptoms": "Fever, throat pain, trouble opening the mouth, change to the voice",
+    "Complications": "Blockage of the airway, aspiration pneumonitis",
+    "Causes": "Multiple types of bacteria",
+    "Risk factors": "Streptococcal pharyngitis",
+    "Diagnostic method": "Based on the symptoms",
+    "Differential diagnosis": "Retropharyngeal abscess, infectious mononucleosis, epiglottitis, cancer",
+    "Treatment": "Remove pus, antibiotics, fluids, pain medication, steroids",
+    "Frequency": "~3 per 10,000 per year (USA)",
+    "__IMAGE_FILE__": "PeritonsilarAbsess.jpg"
+  },
   "Rabies": {
     "__HEADING__": "Rabies",
     "__IMAGE_SRC__": "/wiki/File:Manwithrabies4.png",
@@ -2526,7 +2960,9 @@
     "Frequency": "2\u201340% of people at some time",
     "__IMAGE_FILE__": "Sciatic_nerve2.jpg"
   },
-  "Scrapie": {},
+  "Scrapie": {
+    "null": "TODO"
+  },
   "Scrub Typhus": {
     "__HEADING__": "Scrub typhus",
     "Other names": "Bush typhus, mite typhus, jungle typhus",
@@ -2563,7 +2999,19 @@
     "Prognosis": "10 to 80% risk of death",
     "Frequency": "0.2\u20133 per 1000 a year (developed world)"
   },
-  "Sexually transmitted infections (STIs)": {},
+  "Sexually transmitted infections (STIs)": {
+    "__HEADING__": "Sexually transmitted infection",
+    "Other names": "Sexually transmitted disease (STD);Venereal disease (VD)",
+    "__IMAGE_SRC__": "/wiki/File:Syphilis_is_a_dangerous_disease.png",
+    "Specialty": "Infectious disease",
+    "Symptoms": "None, vaginal discharge, penile discharge, ulcers on or around the genitals, pelvic pain",
+    "Complications": "Infertility",
+    "Causes": "Infections commonly spread by sex",
+    "Prevention": "Not having sex, vaccinations, condoms",
+    "Frequency": "1.1\u00a0billion (STIs other than HIV/AIDS, 2015)",
+    "Deaths": "108,000 (STIs other than HIV/AIDS, 2015)",
+    "__IMAGE_FILE__": "Syphilis_is_a_dangerous_disease.png"
+  },
   "Shaken Baby Syndrome": {
     "__HEADING__": "Shaken baby syndrome",
     "Other names": "abusive head trauma, non accidental head injury",
@@ -2775,7 +3223,22 @@
     "Frequency": "50 million (with cysticercosis)",
     "__IMAGE_FILE__": "Taenia_saginata_LifeCycle.gif"
   },
-  "Taeniasis/cysticercosis": {},
+  "Taeniasis/cysticercosis": {
+    "__HEADING__": "Cysticercosis",
+    "__IMAGE_SRC__": "/wiki/File:Neurocysticercosis.gif",
+    "Specialty": "Infectious disease",
+    "Symptoms": "1\u20132 cm lumps under the skin",
+    "Complications": "Neurocysticercosis",
+    "Duration": "Long term",
+    "Causes": "Eating tapeworm eggs (fecal oral transmission)",
+    "Diagnostic method": "aspiration of a cyst",
+    "Prevention": "Improved sanitation, treating those with taeniasis, cooking pork well",
+    "Treatment": "None, medications",
+    "Medication": "Praziquantel, albendazole, corticosteroids, anti seizure medications",
+    "Frequency": "1.9 million",
+    "Deaths": "400",
+    "__IMAGE_FILE__": "Neurocysticercosis.gif"
+  },
   "Tay-Sachs disease": {
     "__HEADING__": "Tay\u2013Sachs disease",
     "Other names": "GM2 gangliosidosis, hexosaminidase\u00a0A deficiency",
@@ -3043,7 +3506,9 @@
     "Treatment": "Sunscreen, makeup, topical corticosteroids, phototherapy",
     "Frequency": "1% of people"
   },
-  "Warkany syndrome": {},
+  "Warkany syndrome": {
+	  "null":"todo"
+  },
   "Warts": {
     "__HEADING__": "Warts",
     "Other names": "Verrucae, papillomas",
