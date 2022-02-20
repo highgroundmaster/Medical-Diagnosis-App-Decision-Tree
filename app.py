@@ -70,7 +70,7 @@ def search(resp, dataset, dt):
     warnings = ""
     debug_print(" got " + resp)
     for word in list_of_words:
-        if word.lower() in dataset.symptom:
+        if word.lower() in dataset.symptoms:
             search_symptoms.append(word)
         elif word != "":
             warnings += f"The word '{word}' was not understood\n"
@@ -97,11 +97,13 @@ def main():
     put_scope("result", content=put_text(""))
     put_scope("warnings", content=put_text(""))
     print(" getting diseases")
-    for disease in dataset.diseases:
-        print(" got 1 "+ disease)
-        resp = input("enter symptoms separated by comma")
+    # while True:
+    #     resp = input("enter symptoms separated by comma")
+    #     search(resp, dataset, dt)
+    for i, disease in enumerate(dataset.diseases):
+        print(f" {i} of {len(dataset.diseases)}  {disease}")
         display_result([disease], dataset)
-
+        input("next")
 
 if __name__ == '__main__':
     main()
