@@ -56,3 +56,13 @@
  got hello
  got acne
  got hello
+ got Acne, periods
+ got hello world
+ got confusion
+ got thinking too much
+ got arm pain
+ got hello world
+ got acne, hello world
+ got arm pain
+ got arm pain
+ got hello world
