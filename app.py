@@ -5,33 +5,27 @@ import pandas as pd
 from pywebio.input import *
 from pywebio.output import *
 from decision_tree import DecisionTree
+from preprocessing import vocab_cleaning, get_jaccard_sim
 
 
 class Dataset:
 
-    def __init__(self):
+    def __init__(self, data_path):
         self.symptoms = []
         self.diseases = []
         self.wiki = {}
-        self.load_dataset()
+        self.load_dataset(data_path)
 
-    def load_dataset(self):
-        self.load_symptoms()
-        self.load_diseases()
+    def load_dataset(self, data_path):
+        data = pd.read_csv(data_path)
+        self.symptoms = data.columns[1:]
+        self.diseases = data['label_dis']
         self.load_wiki()
 
     def load_wiki(self):
         fldr = os.path.join("Data", "Wiki")
         with open(os.path.join(fldr, "diseases.json"), "r", encoding="UTF-8") as fp:
             self.wiki = json.load(fp)
-
-    def load_diseases(self):
-        with open(os.path.join("Data", "diseases_norm.txt"), "r", encoding="UTF-8") as fp:
-            self.diseases = fp.read().splitlines()
-
-    def load_symptoms(self):
-        with open(os.path.join("Data", "symptoms.txt"), "r", encoding="UTF-8") as fp:
-            self.symptoms = fp.read().splitlines()
 
     def get_user_response(self, user_symptoms):
         symptoms_vector = []
@@ -73,7 +67,14 @@ def search(resp, dataset, dt):
         if word.lower() in dataset.symptoms:
             search_symptoms.append(word)
         elif word != "":
-            warnings += f"The word '{word}' was not understood\n"
+            max_similarity, similar_word = 0,  ""
+            for symptom in dataset.symptoms:
+                similarity = get_jaccard_sim(vocab_cleaning(word), vocab_cleaning(symptom))
+                if similarity > max_similarity:
+                    max_similarity = similarity
+                    similar_word = symptom
+            search_symptoms.append(similar_word)
+                
     with use_scope("warnings", clear=True):
         if warnings != "":
             put_text("Warning:- \n" + warnings)
@@ -91,19 +92,20 @@ def debug_print(s):
 
 
 def main():
-    dt = DecisionTree(os.path.join("Data", "dis_sym_dataset_comb.csv"), "label_dis")
+    # dt = DecisionTree(os.path.join("Data", "dis_sym_dataset_comb.csv"), "label_dis")
+    dt = DecisionTree(os.path.join("Data", "preprocessed_dis_sym_comb.csv"), "label_dis")
     dt.train()
-    dataset = Dataset()
-    put_scope("result", content=put_text(""))
-    put_scope("warnings", content=put_text(""))
-    print(" getting diseases")
-    # while True:
-    #     resp = input("enter symptoms separated by comma")
-    #     search(resp, dataset, dt)
-    for i, disease in enumerate(dataset.diseases):
-        print(f" {i} of {len(dataset.diseases)}  {disease}")
-        display_result([disease], dataset)
-        input("next")
+    dataset = Dataset(os.path.join("Data", "preprocessed_dis_sym_comb.csv"))
+    put_scope("Result", content=put_text(""))
+    put_scope("Warnings", content=put_text(""))
+    print("Getting diseases")
+    while True:
+        resp = input("Enter comma-separated Symptoms")
+        search(resp, dataset, dt)
+    # for i, disease in enumerate(dataset.diseases):
+    #     print(f" {i} of {len(dataset.diseases)}  {disease}")
+    #     display_result([disease], dataset)
+    #     input("next")
 
 if __name__ == '__main__':
     main()
