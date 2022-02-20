@@ -1,0 +1,261 @@
+Abscess
+Acquired Capillary Haemangioma of Eyelid
+Acquired Immuno Deficiency Syndrome
+Acute encephalitis syndrome
+Adult Inclusion Conjunctivitis
+Alcohol Abuse and Alcoholism
+Alopecia (hair loss)
+Alzheimer
+Amaurosis Fugax
+Amblyopia
+Amoebiasis
+Anaemia
+Aniseikonia
+Anisometropia
+Antepartum hemorrhage (Bleeding in late pregnancy)
+Anthrax
+Anxiety
+Appendicitis
+Arthritis
+Asbestos-related diseases
+Aseptic meningitis
+Asthma
+Astigmatism
+Atrophy
+Autism
+Bad Breath (Halitosis)
+Bell's Palsy
+Beriberi
+Black Death
+Bleeding Gums
+Blindness
+Botulism
+Brain Tumour
+Breast Cancer / Carcinoma
+Bronchitis
+Brucellosis
+Bubonic plague
+Bunion
+Burns
+Calculi
+Campylobacter infection
+Cancer
+Candidiasis
+Carbon monoxide poisoning
+Carpal Tunnel Syndrome
+Cavities
+Celiacs disease
+Cerebral palsy
+Chagas disease
+Chalazion
+Chickenpox
+Chikungunya Fever
+Childhood Exotropia
+Chlamydia
+Cholera
+Chorea
+Chronic fatigue syndrome
+Chronic obstructive pulmonary disease (COPD)
+Cleft Lip and Cleft Palate
+Colitis
+Colorectal Cancer
+Common cold
+Condyloma
+Congenital anomalies (birth defects)
+Congestive heart disease
+Corneal Abrasion
+Coronary Heart Disease
+Coronavirus disease 2019 (COVID-19)
+Cough
+Crimean Congo haemorrhagic fever (CCHF)
+Dehydration
+Dementia
+Dengue
+Diabetes Mellitus
+Diabetic Retinopathy
+Diarrhea
+Diphtheria
+Down's Syndrome
+Dracunculiasis (guinea-worm disease)
+Dysentery
+Ear infection
+Early pregnancy loss
+Ebola
+Eclampsia
+Ectopic pregnancy
+Eczema
+Endometriosis
+Epilepsy
+Fibroids
+Fibromyalgia
+Food Poisoning
+Frost Bite
+GERD
+Gaming disorder
+Gangrene
+Gastroenteritis
+Genital herpes
+Glaucoma
+Goitre
+Gonorrhea
+Guillain-Barré syndrome
+Haemophilia
+Hand, Foot and Mouth Disease
+Heat-Related Illnesses and Heat waves
+Hepatitis
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis D
+Hepatitis E
+Herpes Simplex
+High risk pregnancy
+Human papillomavirus
+Hypermetropia
+Hyperthyroidism
+Hypothyroid
+Hypotonia
+Impetigo
+Inflammatory Bowel Disease
+Influenza
+Insomnia
+Interstitial cystitis
+Iritis
+Iron Deficiency Anemia
+Irritable bowel syndrome
+Japanese Encephalitis
+Jaundice
+Kala-azar/ Leishmaniasis
+Kaposi’s Sarcoma
+Keratoconjunctivitis Sicca (Dry eye syndrome)
+Keratoconus
+Kuru
+Laryngitis
+Lead poisoning
+Legionellosis
+Leprosy
+Leptospirosis
+Leukemia
+Lice
+Lung cancer
+Lupus erythematosus
+Lyme disease
+Lymphoma
+Mad cow disease
+Malaria
+Marburg fever
+Mastitis
+Measles
+Melanoma
+Middle East respiratory syndrome coronavirus (MERS‐CoV)
+Migraine
+Mononucleosis
+Mouth Breathing
+Multiple myeloma
+Multiple sclerosis
+Mumps
+Muscular dystrophy
+Myasthenia gravis
+Myelitis
+Myocardial Infarction (Heart Attack)
+Myopia
+Narcolepsy
+Nasal Polyps
+Nausea and Vomiting of Pregnancy and  Hyperemesis gravidarum
+Necrotizing Fasciitis
+Neonatal Respiratory Disease Syndrome(NRDS)
+Neoplasm
+Neuralgia
+Nipah virus infection
+Obesity
+Obsessive Compulsive Disorder
+Oral Cancer
+Orbital Dermoid
+Osteoarthritis
+Osteomyelitis
+Osteoporosis
+Paratyphoid fever
+Parkinson's Disease
+Pelvic inflammatory disease
+Perennial Allergic Conjunctivitis
+Pericarditis
+Peritonitis
+Pinguecula
+Pneumonia
+Poliomyelitis
+Polycystic ovary syndrome (PCOS)
+Porphyria
+Post Menopausal Bleeding
+Post-herpetic neuralgia
+Postpartum depression/ Perinatal depression
+Preeclampsia
+Premenstrual syndrome
+Presbyopia
+Preterm birth
+Progeria
+Psoriasis
+Puerperal sepsis
+Pulmonary embolism
+Ques fever
+Quinsy
+Rabies
+Raynaud's Phenomenon
+Repetitive strain injury
+Rheumatic fever
+Rheumatism
+Rickets
+Rift Valley fever
+Rocky Mountain spotted fever
+Rubella
+SARS
+SIDS
+Sarcoidosis
+Sarcoma
+Scabies
+Scarlet fever
+Schizophrenia
+Sciatica
+Scrapie
+Scrub Typhus
+Scurvy
+Sepsis
+Sexually transmitted infections (STIs)
+Shaken Baby Syndrome
+Shigellosis
+Shin splints
+Shingles
+Sickle-cell anemia
+Smallpox
+Stevens-Johnson syndrome
+Stomach ulcers
+Strep throat
+Stroke
+Sub-conjunctival Haemorrhage
+Syphilis
+Taeniasis
+Taeniasis/cysticercosis
+Tay-Sachs disease
+Tennis elbow
+Tetanus
+Thalassaemia
+Tinnitus
+Tonsillitis
+Toxic shock syndrome
+Trachoma
+Trichinosis
+Trichomoniasis
+Tuberculosis
+Tularemia
+Turners Syndrome
+Urticaria
+Varicose Veins
+Vasovagal syncope
+Vitamin B12 Deficiency
+Vitiligo
+Warkany syndrome
+Warts
+Yaws
+Yellow Fever
+Zika virus disease
+lactose intolerance
+papilloedema
