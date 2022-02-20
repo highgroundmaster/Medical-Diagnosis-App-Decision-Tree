@@ -1251,7 +1251,19 @@
     "__IMAGE_FILE__": "Widespread_Pain_Index_Areas_with_numbers.jpg"
   },
   "Food Poisoning": {
-    "null": "todo"
+    "__HEADING__": "Food Poisoning",
+    "Other names": "food sickness",
+    "Specialty": "Infectious Disease Doctors, Primary Care Provider",
+    "Symptoms": "cramping, nausea, vomiting or diarrhoea.",
+    "Complications": "chills, dehydration, dizziness, fatigue, fever, light-headedness, loss of appetite, malaise, or sweating",
+    "Causes": "Eating of ill prepared or poor food",
+    "Diagnostic method": "Based on symptoms",
+    "Differential diagnosis": "Frostnip, pernio, trench foot",
+    "Prevention": "Avoid cold, wear proper clothing, maintain hydration and nutrition, stay active without becoming exhausted",
+    "Treatment": "Rewarming, medication, surgery",
+    "Medication": "Ibuprofen, tetanus vaccine, iloprost, thrombolytics",
+    "Frequency": "Unknown",
+    "__IMAGE_FILE__": "Frost_bite.jpg"
   },
   "Frost Bite": {
     "__HEADING__": "Frostbite",
@@ -3031,9 +3043,7 @@
     "Frequency": "2\u201340% of people at some time",
     "__IMAGE_FILE__": "Sciatic_nerve2.jpg"
   },
-  "Scrapie": {
-    "null": "TODO"
-  },
+  "Scrapie": {},
   "Scrub Typhus": {
     "__HEADING__": "Scrub typhus",
     "Other names": "Bush typhus, mite typhus, jungle typhus",
@@ -3591,7 +3601,9 @@
     "__IMAGE_FILE__": "Vitiligo2.JPG"
   },
   "Warkany syndrome": {
-    "null": "todo"
+	  "__HEADING__": "Warkany syndrome 1",
+	  "Specialty": "Genetics",
+	  "Symptoms": "longer-than-average head, wide, deep eyes, thick lips, large forehead",
   },
   "Warts": {
     "__HEADING__": "Warts",
