@@ -1,3 +1,5 @@
+import os.path
+
 import numpy as np
 import pandas as pd
 import nltk
@@ -16,7 +18,7 @@ from nltk.corpus import wordnet
 
 
 def data_cleaning():
-    data = pd.read_csv("..\dis_sym_dataset_comb.csv")
+    data = pd.read_csv(os.path.join("Data", "preprocessed_dis_sym_comb.csv"))
     symptoms = data.columns[1:]
     for symptom_1, symptom_2 in list(combinations(symptoms, 2)):
         if get_jaccard_sim(vocab_cleaning(symptom_1),vocab_cleaning(symptom_2)) >= 0.5:
