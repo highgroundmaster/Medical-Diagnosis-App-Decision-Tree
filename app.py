@@ -97,13 +97,13 @@ def main():
     put_scope("result", content=put_text(""))
     put_scope("warnings", content=put_text(""))
     print(" getting diseases")
-    # while True:
-    #     resp = input("enter symptoms separated by comma")
-    #     search(resp, dataset, dt)
-    for i, disease in enumerate(dataset.diseases):
-        print(f" {i} of {len(dataset.diseases)}  {disease}")
-        display_result([disease], dataset)
-        input("next")
+    while True:
+        resp = input("enter symptoms separated by comma")
+        search(resp, dataset, dt)
+    # for i, disease in enumerate(dataset.diseases):
+    #     print(f" {i} of {len(dataset.diseases)}  {disease}")
+    #     display_result([disease], dataset)
+    #     input("next")
 
 if __name__ == '__main__':
     main()
