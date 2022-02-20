@@ -109,8 +109,21 @@ def load():
 
 
 if __name__ == '__main__':
-    scraped_data = load()
     driver.implicitly_wait(1)
+    scraped_data = load()
+    list_of_d = []
+    for disease in scraped_data.keys():
+        atr = scraped_data[disease].keys()
+        if "__IMAGE_SRC__" in atr:
+            if "__IMAGE_FILE__" not in atr:
+                list_of_d.append(disease)
+
+    for i, disease in enumerate(list_of_d):
+        print(f" {i} of {len(list_of_d)} {disease}")
+        src = get_img(scraped_data[disease]["__IMAGE_SRC__"])
+        scraped_data[disease]["__IMAGE_FILE__"] = src
+        save(scraped_data)
+    exit(0)
 
     blank_diseases = []
     for ele in scraped_data.keys():

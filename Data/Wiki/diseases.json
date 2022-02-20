@@ -46,7 +46,8 @@
     "Treatment": "Antiretroviral therapy",
     "Prognosis": "Near normal life expectancy with treatment11 years life expectancy without treatment",
     "Frequency": "55.9 million \u2013 100 million total cases1.5 million new cases (2020)37 million living with HIV (2020)",
-    "Deaths": "36.3 million total deaths680,000 (2020)"
+    "Deaths": "36.3 million total deaths680,000 (2020)",
+    "__IMAGE_FILE__": "Red_Ribbon.svg"
   },
   "Acute encephalitis syndrome": {
     "__HEADING__": "Encephalitis",
@@ -91,7 +92,8 @@
     "Diagnostic method": "Questionnaires, blood tests",
     "Treatment": "Alcohol cessation typically with benzodiazepines, counselling, acamprosate, disulfiram, naltrexone[10]",
     "Frequency": "380 million / 5.1% adults (2016)[11][12]",
-    "Deaths": "3.3 million / 5.9%[13]"
+    "Deaths": "3.3 million / 5.9%[13]",
+    "__IMAGE_FILE__": "A_wife_asking_her_drunkard_husband_to_hand_over_a_bottle_Wellcome_L0067935.jpg"
   },
   "Alopecia (hair loss)": {
     "__HEADING__": "Hair loss",
@@ -122,7 +124,8 @@
     "Differential diagnosis": "Normal aging, Lewy body dementia, Trisomy 21.",
     "Medication": "Acetylcholinesterase inhibitors, NMDA receptor antagonists (small benefit)",
     "Prognosis": "Life expectancy 3\u20139 years",
-    "Frequency": "50 million (2020)[10]"
+    "Frequency": "50 million (2020)[10]",
+    "__IMAGE_FILE__": "Brain-ALZH.png"
   },
   "Amaurosis Fugax": {
     "__HEADING__": "Amaurosis fugax",
@@ -145,7 +148,8 @@
     "Diagnostic method": "Vision testing",
     "Differential diagnosis": "Brainstem disorders, optic nerve disorder, eye diseases",
     "Treatment": "Glasses, eyepatch",
-    "Frequency": "~2% of adults"
+    "Frequency": "~2% of adults",
+    "__IMAGE_FILE__": "Child_eyepatch.jpg"
   },
   "Amoebiasis": {
     "__HEADING__": "Amoebiasis",
@@ -171,7 +175,8 @@
     "Symptoms": "Tiredness, pale skin, weakness, shortness of breath, feeling faint",
     "Causes": "Blood loss, decreased red blood cell production, increased red blood cell breakdown",
     "Diagnostic method": "Blood hemoglobin measurement",
-    "Frequency": "2.36 billion / 33% (2015)"
+    "Frequency": "2.36 billion / 33% (2015)",
+    "__IMAGE_FILE__": "Iron_deficiency_anemia_blood_film.jpg"
   },
   "Aniseikonia": {
     "__HEADING__": "Aniseikonia",
@@ -203,7 +208,8 @@
     "Prevention": "Anthrax vaccination, antibiotics",
     "Treatment": "Antibiotics, antitoxin",
     "Prognosis": "20\u201380% die without treatment",
-    "Frequency": ">2,000 cases per year"
+    "Frequency": ">2,000 cases per year",
+    "__IMAGE_FILE__": "Anthrax_PHIL_2033.png"
   },
   "Anxiety": {
     "__HEADING__": "Anxiety disorder",
@@ -219,7 +225,8 @@
     "Differential diagnosis": "Hyperthyroidism; heart disease; caffeine, alcohol, cannabis use; withdrawal from certain drugs",
     "Treatment": "Lifestyle changes, counselling, medications",
     "Medication": "Antidepressants, anxiolytics, beta blockers",
-    "Frequency": "12% per year"
+    "Frequency": "12% per year",
+    "__IMAGE_FILE__": "The_Scream.jpg"
   },
   "Appendicitis": {
     "__HEADING__": "Appendicitis",
@@ -232,7 +239,8 @@
     "Differential diagnosis": "Mesenteric adenitis, cholecystitis, psoas abscess, abdominal aortic aneurysm",
     "Treatment": "Surgical removal of the appendix, antibiotics",
     "Frequency": "11.6 million (2015)",
-    "Deaths": "50,100 (2015)"
+    "Deaths": "50,100 (2015)",
+    "__IMAGE_FILE__": "Acute_Appendicitis.jpg"
   },
   "Arthritis": {
     "__HEADING__": "Arthritis",
@@ -242,12 +250,14 @@
     "Symptoms": "Joint pain, stiffness, redness, swelling, decreased range of motion",
     "Types": "> 100, most common (osteoarthritis, rheumatoid arthritis)",
     "Treatment": "Resting, applying ice or heat, weight loss, exercise, joint replacement",
-    "Medication": "Ibuprofen, paracetamol (acetaminophen)"
+    "Medication": "Ibuprofen, paracetamol (acetaminophen)",
+    "__IMAGE_FILE__": "Rheumatoid_Arthritis.JPG"
   },
   "Asbestos-related diseases": {
     "__HEADING__": "Asbestos-related disease",
     "__IMAGE_SRC__": "/wiki/File:Asbestos_effect.jpg",
-    "Specialty": "Respirology"
+    "Specialty": "Respirology",
+    "__IMAGE_FILE__": "Asbestos_effect.jpg"
   },
   "Aseptic meningitis": {
     "__HEADING__": "Aseptic meningitis",
@@ -268,7 +278,8 @@
     "Diagnostic method": "Based on symptoms, response to therapy, spirometry",
     "Treatment": "Avoiding triggers, inhaled corticosteroids, salbutamol",
     "Frequency": "approx. 262 million (2019)",
-    "Deaths": "approx. 461,000 (2019)"
+    "Deaths": "approx. 461,000 (2019)",
+    "__IMAGE_FILE__": "Two_Peak_Flow_Meters.jpg"
   },
   "Astigmatism": {
     "__HEADING__": "Astigmatism",
@@ -320,7 +331,8 @@
     "Causes": "Usually from inside the mouth",
     "Treatment": "Depends on cause, tongue cleaning, mouthwash, flossing",
     "Medication": "Mouthwash containing chlorhexidine or cetylpyridinium chloride",
-    "Frequency": "~30% of people"
+    "Frequency": "~30% of people",
+    "__IMAGE_FILE__": "Depiction_of_a_person_who_has_Halitosis_%28or_bad_breath%29.png"
   },
   "Bell's Palsy": {
     "__HEADING__": "Bell's palsy",
@@ -358,7 +370,8 @@
     "Disease": "Bubonic plague",
     "Location": "Eurasia and North Africa",
     "Date": "1346\u20131353",
-    "Deaths": "75,000,000\u2013200,000,000 (estimated)"
+    "Deaths": "75,000,000\u2013200,000,000 (estimated)",
+    "__IMAGE_FILE__": "1346-1353_spread_of_the_Black_Death_in_Europe_map.svg"
   },
   "Bleeding Gums": {
     "__HEADING__": "Periodontitis",
@@ -376,7 +389,8 @@
     "Causes": "Uncorrected refractive errors, cataracts, glaucoma",
     "Diagnostic method": "Eye examination",
     "Treatment": "Vision rehabilitation, changes in the environment, assistive devices (eyeglasses, white cane)",
-    "Frequency": "940 million / 13% (2015)"
+    "Frequency": "940 million / 13% (2015)",
+    "__IMAGE_FILE__": "Long_cane.jpg"
   },
   "Botulism": {
     "__HEADING__": "Botulism",
@@ -422,7 +436,8 @@
     "Treatment": "Surgery, radiation therapy, chemotherapy, hormonal therapy, targeted therapy",
     "Prognosis": "Five-year survival rate \u224885% (US, UK)",
     "Frequency": "2.2\u00a0million affected as of 2020",
-    "Deaths": "685,000 (2020)"
+    "Deaths": "685,000 (2020)",
+    "__IMAGE_FILE__": "Breast_Cancer.png"
   },
   "Bronchitis": {
     "__HEADING__": "Bronchitis",
@@ -439,7 +454,8 @@
     "Other names": "undulant fever, undulating fever, Mediterranean fever, Malta fever, Cyprus fever, rock fever (Micrococcus melitensis)",
     "__IMAGE_SRC__": "/wiki/File:Brucella_spp.JPG",
     "Specialty": "Infectious disease",
-    "Symptoms": "coughing"
+    "Symptoms": "coughing",
+    "__IMAGE_FILE__": "Brucella_spp.JPG"
   },
   "Bubonic plague": {
     "__HEADING__": "Bubonic plague",
@@ -508,7 +524,8 @@
     "Causes": "Campylobacter jejuni",
     "Treatment": "Supportive care, Antibiotics (select cases)",
     "Prognosis": "Usually self-limited",
-    "Deaths": "Infrequent"
+    "Deaths": "Infrequent",
+    "__IMAGE_FILE__": "Campylobacteriosis.png"
   },
   "Cancer": {
     "__HEADING__": "Cancer",
@@ -533,7 +550,8 @@
     "Causes": "Candida (a type of yeast)",
     "Risk factors": "Immunosuppression (HIV/AIDS), diabetes, corticosteroids, antibiotic therapy",
     "Medication": "Clotrimazole, nystatin, fluconazole",
-    "Frequency": "6% of babies (mouth) 75% of women at some time (vaginal)"
+    "Frequency": "6% of babies (mouth) 75% of women at some time (vaginal)",
+    "__IMAGE_FILE__": "Human_tongue_infected_with_oral_candidiasis.jpg"
   },
   "Carbon monoxide poisoning": {
     "__HEADING__": "Carbon monoxide poisoning",
@@ -562,7 +580,8 @@
     "Diagnostic method": "Based on symptoms, physical examinations, electrodiagnostic tests",
     "Prevention": "None",
     "Treatment": "Wrist splint, corticosteroid injections, surgery",
-    "Frequency": "5\u201310%"
+    "Frequency": "5\u201310%",
+    "__IMAGE_FILE__": "Untreated_Carpal_Tunnel_Syndrome.JPG"
   },
   "Cavities": {
     "__HEADING__": "Tooth decay",
@@ -611,7 +630,8 @@
     "Diagnostic method": "Based on child's development",
     "Treatment": "\nPhysical therapy\nOccupational therapy\nSpeech therapy\nConductive education\nExternal braces\nOrthopedic surgery\n",
     "Medication": "\nDiazepam\nBaclofen\nBotulinum toxin\n",
-    "Frequency": "2.1 per 1,000"
+    "Frequency": "2.1 per 1,000",
+    "__IMAGE_FILE__": "USS_Kearsarge_medical_team_treat_patients_at_Arima_District_Health_Facility_DVIDS126489.jpg"
   },
   "Chagas disease": {
     "__HEADING__": "Chagas disease",
@@ -626,7 +646,8 @@
     "Prevention": "Eliminating kissing bugs and avoiding their bites",
     "Medication": "Benznidazole, nifurtimox",
     "Frequency": "6.2 million (2017)",
-    "Deaths": "7,900 (2017)"
+    "Deaths": "7,900 (2017)",
+    "__IMAGE_FILE__": "Trypanosoma_cruzi_in_a_blood_smear.jpg"
   },
   "Chalazion": {
     "__HEADING__": "Chalazion",
@@ -670,7 +691,8 @@
     "Prevention": "Mosquito control, avoidance of bites",
     "Treatment": "Supportive care",
     "Prognosis": "Risk of death ~ 1 in 1,000",
-    "Frequency": "> 1 million (2014)"
+    "Frequency": "> 1 million (2014)",
+    "__IMAGE_FILE__": "2012-01-09_Chikungunya_on_the_right_feet_at_The_Philippines.jpeg"
   },
   "Childhood Exotropia": {
     "__HEADING__": "Exotropia",
@@ -711,7 +733,8 @@
     "Prevention": "Improved sanitation, clean water, hand washing, cholera vaccines",
     "Treatment": "Oral rehydration therapy, zinc supplementation, intravenous fluids, antibiotics",
     "Frequency": "3\u20135\u00a0million people a year",
-    "Deaths": "28,800 (2015)"
+    "Deaths": "28,800 (2015)",
+    "__IMAGE_FILE__": "Adult_cholera_patient.jpg"
   },
   "Chorea": {
     "__HEADING__": "Chorea",
@@ -762,12 +785,14 @@
     "Treatment": "Surgery, speech therapy, dental care",
     "Prognosis": "Good (with treatment)",
     "Frequency": "1.5 per 1000 births (developed world)",
-    "Deaths": "3,800 (2017)"
+    "Deaths": "3,800 (2017)",
+    "__IMAGE_FILE__": "Cleftlipandpalate.JPG"
   },
   "Colitis": {
     "__HEADING__": "Colitis",
     "__IMAGE_SRC__": "/wiki/File:Cryptitis_high_mag.jpg",
-    "Specialty": "Gastroenterology"
+    "Specialty": "Gastroenterology",
+    "__IMAGE_FILE__": "Cryptitis_high_mag.jpg"
   },
   "Colorectal Cancer": {
     "__HEADING__": "Colorectal cancer",
@@ -800,7 +825,8 @@
     "Prevention": "Hand washing, face masks, cough etiquette, avoiding sick people",
     "Treatment": "Symptomatic therapy, zinc[10]",
     "Medication": "NSAIDs[11]",
-    "Frequency": "2\u20133 per year (adults); 6\u20138 per year (children)[12]"
+    "Frequency": "2\u20133 per year (adults); 6\u20138 per year (children)[12]",
+    "__IMAGE_FILE__": "Rhinovirus_isosurface.png"
   },
   "Condyloma": {
     "__HEADING__": "Genital warts",
@@ -940,7 +966,8 @@
     "Treatment": "Supportive care",
     "Medication": "Acetylcholinesterase inhibitors (small benefit)",
     "Frequency": "55 million (2021)",
-    "Deaths": "2.4 million (2016)"
+    "Deaths": "2.4 million (2016)",
+    "__IMAGE_FILE__": "A_man_diagnosed_as_suffering_from_acute_dementia._Lithograph_Wellcome_L0026694.jpg"
   },
   "Dengue": {
     "__HEADING__": "Dengue fever",
@@ -973,7 +1000,8 @@
     "Treatment": "Healthy diet, physical exercise",
     "Medication": "Insulin, anti-diabetic medication like metformin",
     "Frequency": "463 million (8.8%)[10]",
-    "Deaths": "4.2 million (2019)[10]"
+    "Deaths": "4.2 million (2019)[10]",
+    "__IMAGE_FILE__": "Blue_circle_for_diabetes.svg"
   },
   "Diabetic Retinopathy": {
     "__HEADING__": "Diabetic retinopathy",
@@ -1002,7 +1030,8 @@
     "Prevention": "Handwashing, rotavirus vaccination, breastfeeding",
     "Treatment": "Oral rehydration solution, zinc supplementation",
     "Frequency": "\u22482.4 billion (2015)",
-    "Deaths": "1.3 million (2015)"
+    "Deaths": "1.3 million (2015)",
+    "__IMAGE_FILE__": "Multiple_rotavirus_particles.jpg"
   },
   "Diphtheria": {
     "__HEADING__": "Diphtheria",
@@ -1218,7 +1247,8 @@
     "Treatment": "Sufficient sleep and exercise, healthy diet",
     "Medication": "Duloxetine, milnacipran, pregabalin, gabapentin",
     "Prognosis": "Normal life expectancy",
-    "Frequency": "2\u20138%"
+    "Frequency": "2\u20138%",
+    "__IMAGE_FILE__": "Widespread_Pain_Index_Areas_with_numbers.svg"
   },
   "Food Poisoning": {
     "null": "todo"
@@ -1256,7 +1286,8 @@
     "Differential diagnosis": "Peptic ulcer disease, esophageal cancer, esophageal spasm, angina",
     "Treatment": "Lifestyle changes, medications, surgery",
     "Medication": "Antacids, H2 receptor blockers, proton pump inhibitors, prokinetics",
-    "Frequency": "~15% (North American and European populations)"
+    "Frequency": "~15% (North American and European populations)",
+    "__IMAGE_FILE__": "Gastroesophageal_reflux_barium_X-ray.jpg"
   },
   "Gaming disorder": {
     "__HEADING__": "Video game addiction",
@@ -1265,7 +1296,8 @@
     "Symptoms": "Problem gambling, depression, social withdrawal, playing video games for extremely long periods of time",
     "Complications": "Mood disorders, depression, somatisation, sleep disturbances, obesity, anxiety disorders",
     "Risk factors": "Preexisting mental disorder (ADHD, OCD, compulsive behavior, conduct disorder, depression, behavioral inhibition), personality traits (neuroticism, impulsivity, aggressiveness)",
-    "Frequency": "1\u20133% of those who play video games "
+    "Frequency": "1\u20133% of those who play video games ",
+    "__IMAGE_FILE__": "Android_TV_game_controller.jpg"
   },
   "Gangrene": {
     "__HEADING__": "Gangrene",
@@ -1332,7 +1364,8 @@
     "__HEADING__": "Goitre",
     "Other names": "Goiter",
     "__IMAGE_SRC__": "/wiki/File:Thyroid,_Diffuse_Hyperplasia.jpg",
-    "Specialty": "Endocrinology"
+    "Specialty": "Endocrinology",
+    "__IMAGE_FILE__": "Thyroid%2C_Diffuse_Hyperplasia.jpg"
   },
   "Gonorrhea": {
     "__HEADING__": "Gonorrhea",
@@ -1498,7 +1531,8 @@
     "Diagnostic method": "Blood test",
     "Differential diagnosis": "Hepatitis A",
     "Treatment": "Rest, ribavirin (if chronic)",
-    "Frequency": "28 million worldwide (2013)"
+    "Frequency": "28 million worldwide (2013)",
+    "__IMAGE_FILE__": "Hepatitis_E_virus.jpg"
   },
   "Herpes Simplex": {
     "__HEADING__": "Herpes simplex",
@@ -1533,7 +1567,8 @@
     "Causes": "Human papillomavirus spread by direct contact",
     "Risk factors": "Sexual contact",
     "Prevention": "HPV vaccines, condoms",
-    "Frequency": "Most people are infected at some point in time"
+    "Frequency": "Most people are infected at some point in time",
+    "__IMAGE_FILE__": "2r5k.jpg"
   },
   "Hypermetropia": {
     "__HEADING__": "Far-sightedness",
@@ -1547,7 +1582,8 @@
     "Diagnostic method": "Eye exam",
     "Differential diagnosis": "Amblyopia, retrobulbar optic neuropathy, retinitis pigmentosa sine pigmento",
     "Treatment": "Eyeglasses, contact lenses, refractive surgeries, IOL implantation",
-    "Frequency": "~7.5% (US)"
+    "Frequency": "~7.5% (US)",
+    "__IMAGE_FILE__": "Hypermetropia_color.svg"
   },
   "Hyperthyroidism": {
     "__HEADING__": "Hyperthyroidism",
@@ -1561,7 +1597,8 @@
     "Diagnostic method": "Based on symptoms and confirmed by blood tests",
     "Treatment": "Radioiodine therapy, medications, thyroid surgery",
     "Medication": "Beta blockers, methimazole",
-    "Frequency": "1.2% (US)"
+    "Frequency": "1.2% (US)",
+    "__IMAGE_FILE__": "Triiodothyronine.svg"
   },
   "Hypothyroid": {
     "__HEADING__": "Hypothyroidism",
@@ -1600,7 +1637,8 @@
     "Prevention": "Hand washing, avoiding infected people, cleaning injuries",
     "Treatment": "Based on symptoms",
     "Medication": "Antibiotics (mupirocin, fusidic acid, cefalexin)",
-    "Frequency": "140 million (2010)"
+    "Frequency": "140 million (2010)",
+    "__IMAGE_FILE__": "Impetigo2020.jpg"
   },
   "Inflammatory Bowel Disease": {
     "__HEADING__": "Inflammatory bowel diseases",
@@ -1608,7 +1646,8 @@
     "Specialty": "Gastroenterology",
     "Differential diagnosis": "Gastroenteritis, irritable bowel syndrome, celiac disease",
     "Frequency": "11.2 million worldwide (2015)",
-    "Deaths": "47,400 worldwide (2015)"
+    "Deaths": "47,400 worldwide (2015)",
+    "__IMAGE_FILE__": "Cryptitis_high_mag.jpg"
   },
   "Influenza": {
     "__HEADING__": "Influenza",
@@ -1637,7 +1676,8 @@
     "Diagnostic method": "Based on symptoms, sleep study",
     "Differential diagnosis": "Delayed sleep phase disorder, restless leg syndrome, sleep apnea, psychiatric disorder",
     "Treatment": "Sleep hygiene, cognitive behavioral therapy, sleeping pills",
-    "Frequency": "~20%[10]"
+    "Frequency": "~20%[10]",
+    "__IMAGE_FILE__": "53-aspetti_di_vita_quotidiana%2C_insonnia%2C_Taccuino_Sanitatis%2C.jpg"
   },
   "Interstitial cystitis": {
     "__HEADING__": "Interstitial cystitis",
@@ -1663,7 +1703,8 @@
     "Pronunciation": "/\u02ccju\u02d0v\u026aa\u026at\u026as/ ",
     "Specialty": "Ophthalmology, optometry",
     "Symptoms": "Headaches, red eyes, blurred vision, photophobia, burning and redness of the eye",
-    "Causes": "Beh\u00e7et disease, Crohn's disease, Fuchs heterochromic iridocyclitis, Granulomatosis with polyangiitis, HLA-B27 related uveitis, Juvenile idiopathic arthritis, Sarcoidosis, Spondyloarthritis, Sympathetic ophthalmia, Tubulointerstitial nephritis and uveitis syndrome, brucellosis, herpesviruses, leptospirosis, Lyme disease, presumed ocular histoplasmosis syndrome, syphilis, toxocariasis, toxoplasmic chorioretinitis, tuberculosis, Zika fever"
+    "Causes": "Beh\u00e7et disease, Crohn's disease, Fuchs heterochromic iridocyclitis, Granulomatosis with polyangiitis, HLA-B27 related uveitis, Juvenile idiopathic arthritis, Sarcoidosis, Spondyloarthritis, Sympathetic ophthalmia, Tubulointerstitial nephritis and uveitis syndrome, brucellosis, herpesviruses, leptospirosis, Lyme disease, presumed ocular histoplasmosis syndrome, syphilis, toxocariasis, toxoplasmic chorioretinitis, tuberculosis, Zika fever",
+    "__IMAGE_FILE__": "Keratic_precipitate2.jpg"
   },
   "Iron Deficiency Anemia": {
     "__HEADING__": "Iron-deficiency anemia",
@@ -1709,7 +1750,8 @@
     "Treatment": "Supportive care",
     "Prognosis": "Permanent neurological problems occur in up to half of survivors",
     "Frequency": "68,000",
-    "Deaths": "17,000"
+    "Deaths": "17,000",
+    "__IMAGE_FILE__": "Japanese_Encephalitis_Distribution.jpg"
   },
   "Jaundice": {
     "__HEADING__": "Jaundice",
@@ -1924,7 +1966,8 @@
   "Lupus erythematosus": {
     "__HEADING__": "Lupus erythematosus",
     "__IMAGE_SRC__": "/wiki/File:Lupus_erythematosus,_Atlas_der_Hautkrankheiten.jpg",
-    "Specialty": "Rheumatology, Immunology"
+    "Specialty": "Rheumatology, Immunology",
+    "__IMAGE_FILE__": "Lupus_erythematosus%2C_Atlas_der_Hautkrankheiten.jpg"
   },
   "Lyme disease": {
     "__HEADING__": "Lyme disease",
@@ -1951,7 +1994,8 @@
     "Treatment": "Chemotherapy, radiation therapy, proton therapy, targeted therapy, surgery",
     "Prognosis": "Average five year survival 85% (USA)",
     "Frequency": "4.9 million (2015)",
-    "Deaths": "204,700 (2015)"
+    "Deaths": "204,700 (2015)",
+    "__IMAGE_FILE__": "Lymphoma_macro.jpg"
   },
   "Mad cow disease": {
     "__HEADING__": "Bovine spongiform encephalopathy",
@@ -1968,7 +2012,8 @@
     "Prevention": "Not allowing sick or older animals to enter the food supply, disallowing certain products in animal food",
     "Treatment": "None",
     "Prognosis": "Death within weeks to months",
-    "Frequency": "4 reported cases (2017)"
+    "Frequency": "4 reported cases (2017)",
+    "__IMAGE_FILE__": "Aphis.usda.gov_BSE_3.jpg"
   },
   "Malaria": {
     "__HEADING__": "Malaria",
@@ -1983,7 +2028,8 @@
     "Prevention": "Mosquito nets, insect repellent, mosquito control, medications",
     "Medication": "Antimalarial medication",
     "Frequency": "229 million (2019)",
-    "Deaths": "627,000 in 2020"
+    "Deaths": "627,000 in 2020",
+    "__IMAGE_FILE__": "Malaria_Parasite_Connecting_to_Human_Red_Blood_Cell_%2834034143483%29.jpg"
   },
   "Marburg fever": {
     "__HEADING__": "Marburg virus disease",
@@ -2014,7 +2060,8 @@
     "Differential diagnosis": "Plugged milk duct, breast engorgement, breast cancer (rare)",
     "Prevention": "Frequent breastfeeding with good technique",
     "Treatment": "Antibiotics (cephalexin), ibuprofen",
-    "Frequency": "10% of breastfeeding women"
+    "Frequency": "10% of breastfeeding women",
+    "__IMAGE_FILE__": "Atlas_of_clinical_surgery%3B_with_special_reference_to_diagnosis_and_treatment_for_practitioners_and_students_%281908%29_%2814768289625%29.jpg"
   },
   "Measles": {
     "__HEADING__": "Measles",
@@ -2068,7 +2115,8 @@
     "Differential diagnosis": "Subarachnoid hemorrhage, venous thrombosis, idiopathic intracranial hypertension, brain tumor, tension headache, sinusitis, cluster headache",
     "Prevention": "Metoprolol, valproate, topiramate",
     "Medication": "Ibuprofen, paracetamol (acetaminophen), triptans, ergotamines[10]",
-    "Frequency": "12.6%"
+    "Frequency": "12.6%",
+    "__IMAGE_FILE__": "Migraine.jpg"
   },
   "Mononucleosis": {
     "__HEADING__": "Infectious mononucleosis",
@@ -2081,7 +2129,8 @@
     "Causes": "Epstein\u2013Barr virus (EBV) usually spread via saliva",
     "Diagnostic method": "Based on symptoms and blood tests",
     "Treatment": "Drinking enough fluids, getting sufficient rest, pain medications such as paracetamol (acetaminophen) and ibuprofen",
-    "Frequency": "45 per 100,000 per year (U.S.)"
+    "Frequency": "45 per 100,000 per year (U.S.)",
+    "__IMAGE_FILE__": "Lymphadanopathy.JPG"
   },
   "Mouth Breathing": {
     "__HEADING__": "Mouth breathing",
@@ -2103,7 +2152,8 @@
     "Treatment": "Steroids, chemotherapy, thalidomide, stem cell transplant, bisphosphonates, radiation therapy",
     "Prognosis": "Five-year survival rate 54% / life expectancy 6 years (USA)",
     "Frequency": "488,200 (affected during 2015)",
-    "Deaths": "101,100 (2015)"
+    "Deaths": "101,100 (2015)",
+    "__IMAGE_FILE__": "Multiple_Myeloma.jpg"
   },
   "Multiple sclerosis": {
     "__HEADING__": "Multiple sclerosis",
@@ -2118,7 +2168,8 @@
     "Treatment": "Medications, physical therapy, occupational therapy ",
     "Prognosis": "5\u201310 year shorter life expectancy",
     "Frequency": "2 million (2015)",
-    "Deaths": "18,900 (2015)"
+    "Deaths": "18,900 (2015)",
+    "__IMAGE_FILE__": "MS_Demyelinisation_CD68_10xv2.jpg"
   },
   "Mumps": {
     "__HEADING__": "Mumps",
@@ -2149,7 +2200,8 @@
     "Causes": "Genetic (X-linked recessive, autosomal recessive, or autosomal dominant)",
     "Diagnostic method": "Genetic testing",
     "Treatment": "Pharmacotherapy, physical therapy, braces, corrective surgery, assisted ventilation",
-    "Prognosis": "Depends on the particular disorder"
+    "Prognosis": "Depends on the particular disorder",
+    "__IMAGE_FILE__": "MuscularDystrophy.png"
   },
   "Myasthenia gravis": {
     "__HEADING__": "Myasthenia gravis",
@@ -2163,7 +2215,8 @@
     "Differential diagnosis": "Guillain\u2013Barr\u00e9 syndrome, botulism, organophosphate poisoning, brainstem stroke",
     "Treatment": "Medications, surgical removal of the thymus, plasmapheresis",
     "Medication": "Acetylcholinesterase inhibitors (neostigmine, pyridostigmine), immunosuppressants",
-    "Frequency": "50 to 200 per million"
+    "Frequency": "50 to 200 per million",
+    "__IMAGE_FILE__": "DiplopiaMG1.jpg"
   },
   "Myelitis": {
     "__HEADING__": "Myelitis",
@@ -2215,7 +2268,8 @@
     "Differential diagnosis": "Sleep apnea, major depressive disorder, anemia, heart failure, drinking alcohol, not getting enough sleep",
     "Treatment": "Regular short naps, sleep hygiene",
     "Medication": "Modafinil, sodium oxybate, stimulants, antidepressants",
-    "Frequency": "0.2 to 600 per 100,000"
+    "Frequency": "0.2 to 600 per 100,000",
+    "__IMAGE_FILE__": "1R02_crystallography.png"
   },
   "Nasal Polyps": {
     "__HEADING__": "Nasal polyps",
@@ -2294,7 +2348,8 @@
     "Prevention": "Avoiding exposure to bats and to sick pigs and people.",
     "Treatment": "Supportive care only",
     "Frequency": "~701 human cases (1998 to May 2018)",
-    "Deaths": "~50 to 75% risk of death"
+    "Deaths": "~50 to 75% risk of death",
+    "__IMAGE_FILE__": "Henipavirus_structure.svg"
   },
   "Obesity": {
     "__HEADING__": "Obesity",
@@ -2308,7 +2363,8 @@
     "Treatment": "Diet, exercise, medications, surgery",
     "Prognosis": "Reduced life expectancy",
     "Frequency": "700 million / 12% (2015)",
-    "Deaths": "2.8 million people per year"
+    "Deaths": "2.8 million people per year",
+    "__IMAGE_FILE__": "Obesity-waist_circumference.svg"
   },
   "Obsessive Compulsive Disorder": {
     "__HEADING__": "Obsessive\u2013compulsive disorder",
@@ -2322,7 +2378,8 @@
     "Diagnostic method": "Based on the symptoms",
     "Differential diagnosis": "Anxiety disorder, major depressive disorder, eating disorders, obsessive\u2013compulsive personality disorder",
     "Treatment": "Counseling, selective serotonin reuptake inhibitors, clomipramine",
-    "Frequency": "2.3%"
+    "Frequency": "2.3%",
+    "__IMAGE_FILE__": "OCD_handwash.jpg"
   },
   "Oral Cancer": {
     "__HEADING__": "Oral cancer",
@@ -2337,7 +2394,8 @@
     "Treatment": "Surgery, radiation, chemotherapy",
     "Prognosis": "Five-year survival ~ 65% (US 2015)",
     "Frequency": "355,000 new cases (2018)",
-    "Deaths": "177,000 (2018)"
+    "Deaths": "177,000 (2018)",
+    "__IMAGE_FILE__": "ZungenCa2a.jpg"
   },
   "Orbital Dermoid": {
     "__HEADING__": "Dermoid cyst",
@@ -2390,7 +2448,8 @@
     "Diagnostic method": "Bone density scan",
     "Treatment": "Good diet, exercise, fall prevention, stopping smoking",
     "Medication": "Bisphosphonates",
-    "Frequency": "15% (50 year olds), 70% (over 80 year olds)"
+    "Frequency": "15% (50 year olds), 70% (over 80 year olds)",
+    "__IMAGE_FILE__": "OsteoCutout.png"
   },
   "Paratyphoid fever": {
     "__HEADING__": "Paratyphoid fever",
@@ -2406,7 +2465,8 @@
     "Prevention": "Handwashing, clean water",
     "Treatment": "Antibiotics",
     "Frequency": "529,000",
-    "Deaths": "29,200"
+    "Deaths": "29,200",
+    "__IMAGE_FILE__": "Salmonella_typhi_typhoid_fever_PHIL_2215_lores.jpg"
   },
   "Parkinson's Disease": {
     "__HEADING__": "Parkinson's disease",
@@ -2424,7 +2484,8 @@
     "Medication": "L-DOPA, dopamine agonists",
     "Prognosis": "Life expectancy about 7\u201315 years",
     "Frequency": "6.2 million (2015)",
-    "Deaths": "117,400 (2015)"
+    "Deaths": "117,400 (2015)",
+    "__IMAGE_FILE__": "Paralysis_agitans_%281907%2C_after_St._Leger%29.png"
   },
   "Pelvic inflammatory disease": {
     "__HEADING__": "Pelvic inflammatory disease",
@@ -2460,7 +2521,8 @@
     "Differential diagnosis": "Heart attack",
     "Treatment": "NSAIDs, colchicine, corticosteroids",
     "Prognosis": "Usually good",
-    "Frequency": "3 per 10,000 per year"
+    "Frequency": "3 per 10,000 per year",
+    "__IMAGE_FILE__": "Pericarditis10.JPG"
   },
   "Peritonitis": {
     "__HEADING__": "Peritonitis",
@@ -2476,12 +2538,14 @@
     "Risk factors": "Ascites, peritoneal dialysis",
     "Diagnostic method": "Examination, blood tests, medical imaging",
     "Treatment": "Antibiotics, intravenous fluids, pain medication, surgery",
-    "Frequency": "Relatively common"
+    "Frequency": "Relatively common",
+    "__IMAGE_FILE__": "Tuberculous_peritonitis_%286544825621%29.jpg"
   },
   "Pinguecula": {
     "__HEADING__": "Pinguecula",
     "__IMAGE_SRC__": "/wiki/File:PRE-OPERATIVE_PINGUECULA.JPG",
-    "Specialty": "Ophthalmology\u00a0"
+    "Specialty": "Ophthalmology\u00a0",
+    "__IMAGE_FILE__": "PRE-OPERATIVE_PINGUECULA.JPG"
   },
   "Pneumonia": {
     "__HEADING__": "Pneumonia",
@@ -2587,7 +2651,8 @@
     "Treatment": "Delivery, medications",
     "Medication": "Labetalol, methyldopa, magnesium sulfate",
     "Frequency": "2\u20138% of pregnancies",
-    "Deaths": "46,900 hypertensive disorders in pregnancy (2015)"
+    "Deaths": "46,900 hypertensive disorders in pregnancy (2015)",
+    "__IMAGE_FILE__": "Hypertrophic_decidual_vasculopathy_high_mag.jpg"
   },
   "Premenstrual syndrome": {
     "__HEADING__": "Premenstrual symptoms",
@@ -2613,7 +2678,8 @@
     "Causes": "Aging-related hardening of the lens of the eye",
     "Diagnostic method": "Eye exam",
     "Treatment": "Eyeglasses, contact lenses",
-    "Frequency": "25% currently; all eventually affected"
+    "Frequency": "25% currently; all eventually affected",
+    "__IMAGE_FILE__": "Pesto_ingredients_-_blurred.jpg"
   },
   "Preterm birth": {
     "__HEADING__": "Preterm birth",
@@ -2687,7 +2753,8 @@
     "Diagnostic method": "Based on symptoms, D-dimer, CT pulmonary angiography, lung ventilation/perfusion scan",
     "Treatment": "Anticoagulants (heparin, warfarin, DOACs)",
     "Frequency": "~450,000 per year (USA), 430,000 (Europe)",
-    "Deaths": ">10\u201312,000 per year (US), >30\u201340,000 per year (Europe)[10]"
+    "Deaths": ">10\u201312,000 per year (US), >30\u201340,000 per year (Europe)[10]",
+    "__IMAGE_FILE__": "Pulmonary-embolism.png"
   },
   "Ques fever": {
     "__HEADING__": "Q\u00a0fever",
@@ -2723,7 +2790,8 @@
     "Prevention": "Rabies vaccine, animal control, rabies immunoglobulin",
     "Treatment": "Supportive care",
     "Prognosis": "Virtually 100% fatal after onset of symptoms",
-    "Deaths": "59,000 per year worldwide"
+    "Deaths": "59,000 per year worldwide",
+    "__IMAGE_FILE__": "Manwithrabies4.png"
   },
   "Raynaud's Phenomenon": {
     "__HEADING__": "Raynaud syndrome",
@@ -2751,7 +2819,8 @@
     "Complications": "Torn ligaments",
     "Causes": "Repetitive actions, poor technique",
     "Risk factors": "Sedentary lifestyle, smoking, alcohol consumption",
-    "Prevention": "Proper technique, regular rests, regular exercise"
+    "Prevention": "Proper technique, regular rests, regular exercise",
+    "__IMAGE_FILE__": "Operating_a_Computer_Keyboard_MOD_45158111.jpg"
   },
   "Rheumatic fever": {
     "__HEADING__": "Rheumatic fever",
@@ -2866,7 +2935,8 @@
     "Differential diagnosis": "Infections, genetic disorders, heart problems, child abuse",
     "Prevention": "Putting newborns on their back to sleep, pacifier, breastfeeding, immunization",
     "Treatment": "Support for families",
-    "Frequency": "1 in 1,000\u201310,000"
+    "Frequency": "1 in 1,000\u201310,000",
+    "__IMAGE_FILE__": "Safe_Sleep_logo.svg"
   },
   "Sarcoidosis": {
     "__HEADING__": "Sarcoidosis",
@@ -2941,7 +3011,8 @@
     "Medication": "Antipsychotics",
     "Prognosis": "20 years shorter life expectancy[10]",
     "Frequency": "~0.5%[11]",
-    "Deaths": "~17,000 (2015)[12]"
+    "Deaths": "~17,000 (2015)[12]",
+    "__IMAGE_FILE__": "Cloth_embroidered_by_a_schizophrenia_sufferer.jpg"
   },
   "Sciatica": {
     "__HEADING__": "Sciatica",
@@ -2967,7 +3038,8 @@
     "__HEADING__": "Scrub typhus",
     "Other names": "Bush typhus, mite typhus, jungle typhus",
     "__IMAGE_SRC__": "/wiki/File:Orientia_tsutsugamushi.JPG",
-    "Specialty": "Infectious disease"
+    "Specialty": "Infectious disease",
+    "__IMAGE_FILE__": "Orientia_tsutsugamushi.JPG"
   },
   "Scurvy": {
     "__HEADING__": "Scurvy",
@@ -2997,7 +3069,8 @@
     "Prevention": "influenza vaccination, vaccines, pneumonia vaccination",
     "Treatment": "Intravenous fluids, antimicrobials, vasopressors",
     "Prognosis": "10 to 80% risk of death",
-    "Frequency": "0.2\u20133 per 1000 a year (developed world)"
+    "Frequency": "0.2\u20133 per 1000 a year (developed world)",
+    "__IMAGE_FILE__": "Sepsis-Mikrothomben1.JPG"
   },
   "Sexually transmitted infections (STIs)": {
     "__HEADING__": "Sexually transmitted infection",
@@ -3024,7 +3097,8 @@
     "Prevention": "Educating new parents",
     "Prognosis": "Long term health problems common",
     "Frequency": "3 per 10,000 babies per year (US)",
-    "Deaths": "\u224825% risk of death"
+    "Deaths": "\u224825% risk of death",
+    "__IMAGE_FILE__": "CTheatInfantAbusiveheadtrauma.png"
   },
   "Shigellosis": {
     "__HEADING__": "Shigellosis",
@@ -3056,7 +3130,8 @@
     "Differential diagnosis": "Stress fracture, tendinitis, exertional compartment syndrome",
     "Treatment": "Rest with gradual return to exercise",
     "Prognosis": "Good",
-    "Frequency": "4% to 35% (at-risk groups)"
+    "Frequency": "4% to 35% (at-risk groups)",
+    "__IMAGE_FILE__": "Tibia_-_frontal_view2.png"
   },
   "Shingles": {
     "__HEADING__": "Shingles",
@@ -3073,7 +3148,8 @@
     "Prevention": "Shingles vaccine",
     "Medication": "Aciclovir (if given early), pain medication",
     "Frequency": "33% (at some point)",
-    "Deaths": "6,400 (with chickenpox)"
+    "Deaths": "6,400 (with chickenpox)",
+    "__IMAGE_FILE__": "Herpes_zoster_neck.png"
   },
   "Sickle-cell anemia": {
     "__HEADING__": "Sickle cell disease",
@@ -3107,7 +3183,8 @@
     "Treatment": "Supportive care[10]",
     "Medication": "Brincidofovir",
     "Prognosis": "30% risk of death",
-    "Frequency": "Eradicated (last wild case in 1977)"
+    "Frequency": "Eradicated (last wild case in 1977)",
+    "__IMAGE_FILE__": "Child_with_Smallpox_Bangladesh.jpg"
   },
   "Stevens-Johnson syndrome": {
     "__HEADING__": "Stevens\u2013Johnson syndrome",
@@ -3192,7 +3269,8 @@
     "Treatment": "No specific treatment",
     "Medication": "Artificial tears",
     "Prognosis": "Good, 10% risk of reoccurance",
-    "Frequency": "Common"
+    "Frequency": "Common",
+    "__IMAGE_FILE__": "Human_eye_showing_subconjunctival_hemorrhage.jpg"
   },
   "Syphilis": {
     "__HEADING__": "Syphilis",
@@ -3269,7 +3347,8 @@
     "Diagnostic method": "Based on symptoms with medical imaging used to rule out other potential causes",
     "Differential diagnosis": "Osteochondritis dissecans, osteoarthritis, radiculopathy",
     "Treatment": "Changing activities, physical therapy, pain medication",
-    "Frequency": "c. 2%"
+    "Frequency": "c. 2%",
+    "__IMAGE_FILE__": "En-elbow_joint.svg"
   },
   "Tetanus": {
     "__HEADING__": "Tetanus",
@@ -3301,7 +3380,8 @@
     "Diagnostic method": "Blood tests, genetic tests",
     "Treatment": "Blood transfusions, iron chelation, folic acid",
     "Frequency": "280 million (2015)",
-    "Deaths": "16,800 (2015)"
+    "Deaths": "16,800 (2015)",
+    "__IMAGE_FILE__": "Delta_Beta_Thalassemia.jpg"
   },
   "Tinnitus": {
     "__HEADING__": "Tinnitus",
@@ -3314,7 +3394,8 @@
     "Causes": "Noise-induced hearing loss, ear infections, disease of the heart or blood vessels, M\u00e9ni\u00e8re's disease, brain tumors, inner ear tumors, emotional stress, traumatic brain injury, excessive earwax",
     "Diagnostic method": "Based on symptoms, audiogram, neurological exam",
     "Treatment": "Counseling, sound generators, hearing aids",
-    "Frequency": "~12.5%"
+    "Frequency": "~12.5%",
+    "__IMAGE_FILE__": "Bells_2.JPG"
   },
   "Tonsillitis": {
     "__HEADING__": "Tonsillitis",
@@ -3386,7 +3467,8 @@
     "Diagnostic method": "Finding the parasite in vaginal fluid, microbial culture, testing for the parasites DNA",
     "Prevention": "Not having sex, using condoms, not douching",
     "Medication": "Antibiotics (metronidazole or tinidazole)",
-    "Frequency": "122 million (2015)"
+    "Frequency": "122 million (2015)",
+    "__IMAGE_FILE__": "Trichomonas_May-Gr%C3%BCnwald_staining.jpg"
   },
   "Tuberculosis": {
     "__HEADING__": "Tuberculosis",
@@ -3491,7 +3573,8 @@
     "Diagnostic method": "Blood levels below 130\u2013180 pmol/L (180\u2013250 pg/mL) in adults",
     "Prevention": "Supplementation in those at high risk",
     "Treatment": "Supplementation by mouth or injection",
-    "Frequency": "6% (<\u200960 years old), 20% (>\u200960 years old)"
+    "Frequency": "6% (<\u200960 years old), 20% (>\u200960 years old)",
+    "__IMAGE_FILE__": "Cyanocobalamin.svg"
   },
   "Vitiligo": {
     "__HEADING__": "Vitiligo",
@@ -3504,10 +3587,11 @@
     "Risk factors": "Family history, other autoimmune diseases",
     "Diagnostic method": "Tissue biopsy",
     "Treatment": "Sunscreen, makeup, topical corticosteroids, phototherapy",
-    "Frequency": "1% of people"
+    "Frequency": "1% of people",
+    "__IMAGE_FILE__": "Vitiligo2.JPG"
   },
   "Warkany syndrome": {
-	  "null":"todo"
+    "null": "todo"
   },
   "Warts": {
     "__HEADING__": "Warts",
@@ -3534,7 +3618,8 @@
     "Diagnostic method": "Based on symptoms, blood antibody tests, polymerase chain reaction",
     "Prevention": "Mass treatment",
     "Medication": "Azithromycin, benzathine penicillin",
-    "Frequency": "46,000\u2013500,000"
+    "Frequency": "46,000\u2013500,000",
+    "__IMAGE_FILE__": "Yaws_01.jpg"
   },
   "Yellow Fever": {
     "__HEADING__": "Yellow Fever",
@@ -3567,7 +3652,8 @@
     "Differential diagnosis": "Chikungunya, malaria, dengue, leptospirosis, measles",
     "Prevention": "Permethrin, DEET, picaridin, male condoms",
     "Treatment": "Supportive care, Generally not needed in mild cases",
-    "Deaths": "\u2265 51 (2016\u201319)"
+    "Deaths": "\u2265 51 (2016\u201319)",
+    "__IMAGE_FILE__": "Alexius_Salvador_Zika-Virus.jpg"
   },
   "lactose intolerance": {
     "__HEADING__": "Lactose intolerance",
@@ -3581,7 +3667,8 @@
     "Diagnostic method": "Symptoms resolve following eliminating lactose",
     "Differential diagnosis": "Irritable bowel syndrome, celiac disease, inflammatory bowel disease, milk allergy",
     "Treatment": "Decreasing lactose in the diet, lactase supplements, treat the underlying cause",
-    "Frequency": "~65% of people (less common in Northern Europeans)"
+    "Frequency": "~65% of people (less common in Northern Europeans)",
+    "__IMAGE_FILE__": "Lactose_Haworth.svg"
   },
   "papilloedema": {
     "__HEADING__": "Papilledema",
