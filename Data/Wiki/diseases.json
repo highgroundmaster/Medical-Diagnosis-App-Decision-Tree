@@ -3043,9 +3043,7 @@
     "Frequency": "2\u201340% of people at some time",
     "__IMAGE_FILE__": "Sciatic_nerve2.jpg"
   },
-  "Scrapie": {
-    "null": "TODO"
-  },
+  "Scrapie": {},
   "Scrub Typhus": {
     "__HEADING__": "Scrub typhus",
     "Other names": "Bush typhus, mite typhus, jungle typhus",
@@ -3603,7 +3601,9 @@
     "__IMAGE_FILE__": "Vitiligo2.JPG"
   },
   "Warkany syndrome": {
-    "null": "todo"
+	  "__HEADING__": "Warkany syndrome 1",
+	  "Specialty": "Genetics",
+	  "Symptoms": "longer-than-average head, wide, deep eyes, thick lips, large forehead",
   },
   "Warts": {
     "__HEADING__": "Warts",
