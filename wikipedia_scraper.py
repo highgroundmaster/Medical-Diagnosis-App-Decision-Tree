@@ -84,10 +84,14 @@ def clear(text):
 
 def pull_data(disease_name):
     information = {}
+    # grabs the box
     wikipedia_box = get_wiki_box(disease_name)
+    # we use bs4 soup
     soup = BeautifulSoup(wikipedia_box.get_attribute("outerHTML"), "html5lib")
 
+    # we find the table body
     soup = soup.find('tbody')
+    # we find the rows of the table
     rows = soup.find_all('tr')
     for row in rows:
         th = row.find("th")
