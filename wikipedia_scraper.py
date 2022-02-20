@@ -55,29 +55,32 @@ def clear(text):
 
 
 def pull_data(disease_name):
-    wikipedia_box = get_wiki_box(disease_name)
-    soup = BeautifulSoup(wikipedia_box.get_attribute("outerHTML"), "html5lib")
-
     information = {}
-    soup = soup.find('tbody')
-    rows = soup.find_all('tr')
-    for row in rows:
-        th = row.find("th")
-        td = row.find("td")
-        if td is not None and len(td.select("a.image")) > 0:
-            information["__IMAGE_SRC__"] = str(td.select("a.image")[0]["href"])
-        elif th is not None:
+    try:
+        wikipedia_box = get_wiki_box(disease_name)
+        soup = BeautifulSoup(wikipedia_box.get_attribute("outerHTML"), "html5lib")
 
-            if td is not None:
-                information[clear(th.get_text())] = clear(td.get_text())
-            elif "__HEADING__" not in information.keys():
-                information["__HEADING__"] = clear(th.get_text())
-            else:
-                information[th.decode_contents()] = None
+        soup = soup.find('tbody')
+        rows = soup.find_all('tr')
+        for row in rows:
+            th = row.find("th")
+            td = row.find("td")
+            if td is not None and len(td.select("a.image")) > 0:
+                information["__IMAGE_SRC__"] = str(td.select("a.image")[0]["href"])
+            elif th is not None:
 
-    if "__IMAGE_SRC__" in information.keys():
-        file_name = get_img(information["__IMAGE_SRC__"])
-        information["__IMAGE_FILE__"] = file_name
+                if td is not None:
+                    information[clear(th.get_text())] = clear(td.get_text())
+                elif "__HEADING__" not in information.keys():
+                    information["__HEADING__"] = clear(th.get_text())
+                else:
+                    information[th.decode_contents()] = None
+
+        if "__IMAGE_SRC__" in information.keys():
+            file_name = get_img(information["__IMAGE_SRC__"])
+            information["__IMAGE_FILE__"] = file_name
+    except:
+        pass
     return information
 
 
@@ -91,7 +94,9 @@ if __name__ == '__main__':
     driver.implicitly_wait(1)
     list_of_diseases = pd.read_csv(os.path.join("Data", "dis_sym_dataset_comb.csv"))["label_dis"].unique()
     scraped_data = {}
-    for c in list_of_diseases[:2]:
+    for c in list_of_diseases:
+        print(c)
+
         d = pull_data(c)
         scraped_data[c] = d
         save(scraped_data)
